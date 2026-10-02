@@ -1,0 +1,1971 @@
+{
+ "olimpico-montijo": {
+  "coach": "Fábio Rego",
+  "players": [
+   {
+    "id": "olimpico-montijo-diogo-arreigota",
+    "name": "Diogo Arreigota",
+    "position": "GR",
+    "note": null
+   },
+   {
+    "id": "olimpico-montijo-andre-caixeirinho",
+    "name": "André Caixeirinho",
+    "position": "GR",
+    "note": null
+   },
+   {
+    "id": "olimpico-montijo-fabio-marinheiro",
+    "name": "Fábio Marinheiro",
+    "position": "DEF",
+    "note": "ex-Com. Indústria"
+   },
+   {
+    "id": "olimpico-montijo-santiago-furtado",
+    "name": "Santiago Furtado",
+    "position": "DEF",
+    "note": "ex-Lagameças"
+   },
+   {
+    "id": "olimpico-montijo-rafael-borges",
+    "name": "Rafael Borges",
+    "position": "DEF",
+    "note": "ex-Amora"
+   },
+   {
+    "id": "olimpico-montijo-miguel-pineu",
+    "name": "Miguel Pinéu",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "olimpico-montijo-hernani-martins",
+    "name": "Hernâni Martins",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "olimpico-montijo-gabriel-picarra",
+    "name": "Gabriel Piçarra",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "olimpico-montijo-duarte-ferreira",
+    "name": "Duarte Ferreira",
+    "position": "DEF",
+    "note": "ex-júnior"
+   },
+   {
+    "id": "olimpico-montijo-miguel-loureiro",
+    "name": "Miguel Loureiro",
+    "position": "MED",
+    "note": "ex-Amora"
+   },
+   {
+    "id": "olimpico-montijo-alessio-omrani",
+    "name": "Alessio Omrani",
+    "position": "MED",
+    "note": "ex-Com. Indústria"
+   },
+   {
+    "id": "olimpico-montijo-andre-araujo",
+    "name": "André Araújo",
+    "position": "MED",
+    "note": "ex-júnior"
+   },
+   {
+    "id": "olimpico-montijo-gui-oliveira",
+    "name": "Gui Oliveira",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "olimpico-montijo-jorge-ramos",
+    "name": "Jorge Ramos",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "olimpico-montijo-andre-caeiro",
+    "name": "André Caeiro",
+    "position": "AVA",
+    "note": "ex-Palmelense"
+   },
+   {
+    "id": "olimpico-montijo-pedro-rodrigues",
+    "name": "Pedro Rodrigues",
+    "position": "AVA",
+    "note": "ex-Pinhalnovense"
+   },
+   {
+    "id": "olimpico-montijo-joao-moura",
+    "name": "João Moura",
+    "position": "AVA",
+    "note": "ex-Portimonense, sub-23"
+   },
+   {
+    "id": "olimpico-montijo-tiago-miguel",
+    "name": "Tiago Miguel",
+    "position": "AVA",
+    "note": "ex- Amora"
+   },
+   {
+    "id": "olimpico-montijo-luis-eloi",
+    "name": "Luís Elói",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "olimpico-montijo-joao-caminata",
+    "name": "João Caminata",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "olimpico-montijo-omar-alani",
+    "name": "Omar Alani",
+    "position": "AVA",
+    "note": null
+   }
+  ]
+ },
+ "pescadores": {
+  "coach": "Nuno Ferreira",
+  "players": [
+   {
+    "id": "pescadores-ruben-cruz",
+    "name": "Rúben Cruz",
+    "position": "GR",
+    "note": "ex-Charneca de Caparica"
+   },
+   {
+    "id": "pescadores-ilidio-santos",
+    "name": "Ilídio Santos",
+    "position": "GR",
+    "note": null
+   },
+   {
+    "id": "pescadores-martim-goncalves",
+    "name": "Martim Gonçalves",
+    "position": "GR",
+    "note": "ex-júnior"
+   },
+   {
+    "id": "pescadores-heta",
+    "name": "Heta",
+    "position": "DEF",
+    "note": "ex-Vitória FC"
+   },
+   {
+    "id": "pescadores-joao-santos",
+    "name": "João Santos",
+    "position": "DEF",
+    "note": "ex-Loures"
+   },
+   {
+    "id": "pescadores-joao-picoto",
+    "name": "João Picoto",
+    "position": "DEF",
+    "note": "ex-Santa Iria"
+   },
+   {
+    "id": "pescadores-jorge-matias",
+    "name": "Jorge Matias",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "pescadores-mario-martins",
+    "name": "Mário Martins",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "pescadores-goncalo-jorge",
+    "name": "Gonçalo Jorge",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "pescadores-daniel-brito",
+    "name": "Daniel Brito",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "pescadores-goncalo-esteves",
+    "name": "Gonçalo Esteves",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "pescadores-goncalo-monteiro",
+    "name": "Gonçalo Monteiro",
+    "position": "MED",
+    "note": "ex-Lusitânia, Açores"
+   },
+   {
+    "id": "pescadores-gustavo-rodrigues",
+    "name": "Gustavo Rodrigues",
+    "position": "MED",
+    "note": "ex-Palmelense"
+   },
+   {
+    "id": "pescadores-diogo-lobo",
+    "name": "Diogo Lobo",
+    "position": "MED",
+    "note": "ex-CO Montijo"
+   },
+   {
+    "id": "pescadores-lucas-alves",
+    "name": "Lucas Alves",
+    "position": "MED",
+    "note": "ex-Almada"
+   },
+   {
+    "id": "pescadores-guilherme-socas",
+    "name": "Guilherme Soças",
+    "position": "MED",
+    "note": "ex-Fut. Benfica"
+   },
+   {
+    "id": "pescadores-andre-leca",
+    "name": "André Leça",
+    "position": "MED",
+    "note": "ex-júnior"
+   },
+   {
+    "id": "pescadores-tomas-silva",
+    "name": "Tomás Silva",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "pescadores-miguel-barbosa",
+    "name": "Miguel Barbosa",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "pescadores-afonso-recio",
+    "name": "Afonso Récio",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "pescadores-bruninho",
+    "name": "Bruninho",
+    "position": "AVA",
+    "note": "ex-Vitória"
+   },
+   {
+    "id": "pescadores-leo-chao",
+    "name": "Leo Chão",
+    "position": "AVA",
+    "note": "ex-Vitória"
+   },
+   {
+    "id": "pescadores-goncalo-dias",
+    "name": "Gonçalo Dias",
+    "position": "AVA",
+    "note": "ex-Comércio Indústria"
+   },
+   {
+    "id": "pescadores-edmilson-balde",
+    "name": "Edmilson Baldé",
+    "position": "AVA",
+    "note": "ex-Almada"
+   },
+   {
+    "id": "pescadores-gildo-sambu",
+    "name": "Gildo Sambú",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "pescadores-luis-filipe",
+    "name": "Luís Filipe",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "pescadores-goncalo-cardoso",
+    "name": "Gonçalo Cardoso",
+    "position": "AVA",
+    "note": null
+   }
+  ]
+ },
+ "moitense": {
+  "coach": "Hugo Ferreira",
+  "players": [
+   {
+    "id": "moitense-joao-crespo",
+    "name": "João Crespo",
+    "position": "GR",
+    "note": null
+   },
+   {
+    "id": "moitense-tomas-lopes",
+    "name": "Tomás Lopes",
+    "position": "GR",
+    "note": "ex-Quintajense"
+   },
+   {
+    "id": "moitense-ilanga-gomes",
+    "name": "Ilanga Gomes",
+    "position": "GR",
+    "note": "ex-júnior"
+   },
+   {
+    "id": "moitense-ruan-souza",
+    "name": "Ruan Souza",
+    "position": "DEF",
+    "note": "ex-Jerumelo"
+   },
+   {
+    "id": "moitense-guilherme-silva",
+    "name": "Guilherme Silva",
+    "position": "DEF",
+    "note": "ex-Barreirense"
+   },
+   {
+    "id": "moitense-pedro-cruz",
+    "name": "Pedro Cruz",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "moitense-roberto-lopes",
+    "name": "Roberto Lopes",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "moitense-paulo-arsenio",
+    "name": "Paulo Arsénio",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "moitense-joao-gomes",
+    "name": "João Gomes",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "moitense-miguel-ferreira",
+    "name": "Miguel Ferreira",
+    "position": "MED",
+    "note": "CRI"
+   },
+   {
+    "id": "moitense-diogo-maria",
+    "name": "Diogo Maria",
+    "position": "MED",
+    "note": "ex-Banheirense"
+   },
+   {
+    "id": "moitense-denilson-silva",
+    "name": "Denilson Silva",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "moitense-david-silva",
+    "name": "David Silva",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "moitense-leonardo-leiro",
+    "name": "Leonardo Leiro",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "moitense-rafael-bastos",
+    "name": "Rafael Bastos",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "moitense-pedro-oliveira",
+    "name": "Pedro Oliveira",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "moitense-joao-custodio",
+    "name": "João Custódio",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "moitense-canina",
+    "name": "Canina",
+    "position": "AVA",
+    "note": "ex-Barreirense"
+   },
+   {
+    "id": "moitense-rodrigo-nascimento",
+    "name": "Rodrigo Nascimento",
+    "position": "AVA",
+    "note": "ex-Banheirense"
+   },
+   {
+    "id": "moitense-martim-cardoso",
+    "name": "Martim Cardoso",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "moitense-guilherme-hernandez",
+    "name": "Guilherme Hernandez",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "moitense-rafael-delgado",
+    "name": "Rafael Delgado",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "moitense-rodrigo-vaz",
+    "name": "Rodrigo Vaz",
+    "position": "AVA",
+    "note": null
+   }
+  ]
+ },
+ "palmelense": {
+  "coach": "Luís Conceição",
+  "players": [
+   {
+    "id": "palmelense-jose-marinheiro",
+    "name": "José Marinheiro",
+    "position": "GR",
+    "note": null
+   },
+   {
+    "id": "palmelense-goncalo-coelho",
+    "name": "Gonçalo Coelho",
+    "position": "GR",
+    "note": null
+   },
+   {
+    "id": "palmelense-ricardo-vilar",
+    "name": "Ricardo Vilar",
+    "position": "GR",
+    "note": "ex-júnior"
+   },
+   {
+    "id": "palmelense-luis-ramos",
+    "name": "Luís Ramos",
+    "position": "DEF",
+    "note": "ex-Barreirense"
+   },
+   {
+    "id": "palmelense-rodrigo-vinagre",
+    "name": "Rodrigo Vinagre",
+    "position": "DEF",
+    "note": "ex-Banheirense"
+   },
+   {
+    "id": "palmelense-goncalo-teixeira",
+    "name": "Gonçalo Teixeira",
+    "position": "DEF",
+    "note": "ex-Com. Indústria"
+   },
+   {
+    "id": "palmelense-martim-bispo",
+    "name": "Martim Bispo",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "palmelense-rafael-pascoal",
+    "name": "Rafael Pascoal",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "palmelense-miguel-manhita",
+    "name": "Miguel Manhita",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "palmelense-afonso-machado",
+    "name": "Afonso Machado",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "palmelense-diogo-vilela",
+    "name": "Diogo Vilela",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "palmelense-goncalo-laurindo",
+    "name": "Gonçalo Laurindo",
+    "position": "MED",
+    "note": "ex-Moitense"
+   },
+   {
+    "id": "palmelense-duarte-rolo",
+    "name": "Duarte Rolo",
+    "position": "MED",
+    "note": "ex-Alverca"
+   },
+   {
+    "id": "palmelense-martim-osorio",
+    "name": "Martim Osório",
+    "position": "MED",
+    "note": "ex-Sub 19 do Vitória FC"
+   },
+   {
+    "id": "palmelense-rafael-alfredo",
+    "name": "Rafael Alfredo",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "palmelense-bruno-rocha",
+    "name": "Bruno Rocha",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "palmelense-diogo-mendes",
+    "name": "Diogo Mendes",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "palmelense-antonio-pereira",
+    "name": "António Pereira",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "palmelense-helmut-ary",
+    "name": "Helmut Ary",
+    "position": "AVA",
+    "note": "ex-Moitense"
+   },
+   {
+    "id": "palmelense-sergio-pendao",
+    "name": "Sérgio Pendão",
+    "position": "AVA",
+    "note": "ex-Barreirense"
+   },
+   {
+    "id": "palmelense-breymer",
+    "name": "Breymer",
+    "position": "AVA",
+    "note": "ex-sub19 do Vitória FC"
+   },
+   {
+    "id": "palmelense-diogo-laurindo",
+    "name": "Diogo Laurindo",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "palmelense-rui-carreira",
+    "name": "Rui Carreira",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "palmelense-leonardo-pereira",
+    "name": "Leonardo Pereira",
+    "position": "AVA",
+    "note": null
+   }
+  ]
+ },
+ "alfarim": {
+  "coach": "Dinis Rosa",
+  "players": [
+   {
+    "id": "alfarim-carlos-faria",
+    "name": "Carlos Faria",
+    "position": "GR",
+    "note": "ex-Charneca de Caparica"
+   },
+   {
+    "id": "alfarim-goncalo-cavaco",
+    "name": "Gonçalo Cavaco",
+    "position": "DEF",
+    "note": "ex-Charneca de Caparica"
+   },
+   {
+    "id": "alfarim-gabriel-silva",
+    "name": "Gabriel Silva",
+    "position": "DEF",
+    "note": "ex-São Joseense - Brasil"
+   },
+   {
+    "id": "alfarim-rafael-vidal",
+    "name": "Rafael Vidal",
+    "position": "DEF",
+    "note": "ex-júnior"
+   },
+   {
+    "id": "alfarim-gabriel-henriques",
+    "name": "Gabriel Henriques",
+    "position": "DEF",
+    "note": "ex-júnior do Vitória FC"
+   },
+   {
+    "id": "alfarim-miguel-gatinho",
+    "name": "Miguel Gatinho",
+    "position": "DEF",
+    "note": "ex-Vitória FC"
+   },
+   {
+    "id": "alfarim-tiago-duarte",
+    "name": "Tiago Duarte",
+    "position": "DEF",
+    "note": "São Domingos"
+   },
+   {
+    "id": "alfarim-alexandre-correia",
+    "name": "Alexandre Correia",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "alfarim-jorge-polido",
+    "name": "Jorge Polido",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "alfarim-hernani-aguiar",
+    "name": "Hernâni Aguiar",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "alfarim-henrique-ezequiel",
+    "name": "Henrique Ezequiel",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "alfarim-henrique-rosa",
+    "name": "Henrique Rosa",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "alfarim-alexandre-parada",
+    "name": "Alexandre Parada",
+    "position": "MED",
+    "note": "ex-Zambujalense"
+   },
+   {
+    "id": "alfarim-martim-sousa",
+    "name": "Martim Sousa",
+    "position": "MED",
+    "note": "ex-júnior"
+   },
+   {
+    "id": "alfarim-tiago-silva",
+    "name": "Tiago Silva",
+    "position": "MED",
+    "note": "ex-júnior"
+   },
+   {
+    "id": "alfarim-bernardo-bravo",
+    "name": "Bernardo Bravo",
+    "position": "MED",
+    "note": "ex-júnior"
+   },
+   {
+    "id": "alfarim-dan",
+    "name": "Dan",
+    "position": "MED",
+    "note": "ex-júnior do Sesimbra) e Mário Abreu (ex-Trafaria"
+   },
+   {
+    "id": "alfarim-diogo-silva",
+    "name": "Diogo Silva",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "alfarim-iuri-goncalves",
+    "name": "Iuri Gonçalves",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "alfarim-leandro-tavares",
+    "name": "Leandro Tavares",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "alfarim-manuel-ezequiel",
+    "name": "Manuel Ezequiel",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "alfarim-micael-pereira",
+    "name": "Micael Pereira",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "alfarim-paulo-mendes",
+    "name": "Paulo Mendes",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "alfarim-rodrigo-duarte",
+    "name": "Rodrigo Duarte",
+    "position": "AVA",
+    "note": "ex-CRI"
+   },
+   {
+    "id": "alfarim-rodrigo-seminario",
+    "name": "Rodrigo Seminário",
+    "position": "AVA",
+    "note": "ex-júnior do Charneca de Caparica"
+   },
+   {
+    "id": "alfarim-diogo-galvao",
+    "name": "Diogo Galvão",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "alfarim-edson-vicente",
+    "name": "Edson Vicente",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "alfarim-martim-paulo",
+    "name": "Martim Paulo",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "alfarim-rodrigo-costa",
+    "name": "Rodrigo Costa",
+    "position": "AVA",
+    "note": null
+   }
+  ]
+ },
+ "sesimbra": {
+  "coach": "Duarte Jorge",
+  "players": [
+   {
+    "id": "sesimbra-goncalo-costa",
+    "name": "Gonçalo Costa",
+    "position": "GR",
+    "note": "ex-CO Montijo"
+   },
+   {
+    "id": "sesimbra-rafael-lourenco",
+    "name": "Rafael Lourenço",
+    "position": "GR",
+    "note": "ex-C. Piedade"
+   },
+   {
+    "id": "sesimbra-cristiano-almeida",
+    "name": "Cristiano Almeida",
+    "position": "GR",
+    "note": null
+   },
+   {
+    "id": "sesimbra-lourenco-aires",
+    "name": "Lourenço Aires",
+    "position": "DEF",
+    "note": "ex-Amora “B”"
+   },
+   {
+    "id": "sesimbra-david-dias",
+    "name": "David Dias",
+    "position": "DEF",
+    "note": "ex-Barreirense"
+   },
+   {
+    "id": "sesimbra-martim-jesus",
+    "name": "Martim Jesus",
+    "position": "DEF",
+    "note": "ex-júnior"
+   },
+   {
+    "id": "sesimbra-bernardo-ahumada",
+    "name": "Bernardo Ahumada",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "sesimbra-gustavo-santos",
+    "name": "Gustavo Santos",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "sesimbra-eric-silva",
+    "name": "Eric Silva",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "sesimbra-nelson-cruz",
+    "name": "Nelson Cruz",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "sesimbra-miguel-junqueira",
+    "name": "Miguel Junqueira",
+    "position": "MED",
+    "note": "ex-Alcochetense"
+   },
+   {
+    "id": "sesimbra-hugo-sousa",
+    "name": "Hugo Sousa",
+    "position": "MED",
+    "note": "júnior"
+   },
+   {
+    "id": "sesimbra-diogo-antunes",
+    "name": "Diogo Antunes",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "sesimbra-joao-louro",
+    "name": "João Louro",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "sesimbra-marco-lopes-jaca",
+    "name": "Marco Lopes \"Jaca\"",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "sesimbra-francisco-senica",
+    "name": "Francisco Sénica",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "sesimbra-bernardo-soares",
+    "name": "Bernardo Soares",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "sesimbra-joao-pereira",
+    "name": "João Pereira",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "sesimbra-hugo-caeiro",
+    "name": "Hugo Caeiro",
+    "position": "AVA",
+    "note": "ex-Barreirense"
+   },
+   {
+    "id": "sesimbra-pedro-teixeira",
+    "name": "Pedro Teixeira",
+    "position": "AVA",
+    "note": "ex-Pescadores"
+   },
+   {
+    "id": "sesimbra-claudio-fialho",
+    "name": "Cláudio Fialho",
+    "position": "AVA",
+    "note": "ex-Almada"
+   },
+   {
+    "id": "sesimbra-rodrigo-afonso",
+    "name": "Rodrigo Afonso",
+    "position": "AVA",
+    "note": "ex-júnior"
+   },
+   {
+    "id": "sesimbra-rodrigo-pronto",
+    "name": "Rodrigo Pronto",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "sesimbra-andre-gomes",
+    "name": "André Gomes",
+    "position": "AVA",
+    "note": null
+   }
+  ]
+ },
+ "charneca-caparica": {
+  "coach": "Ricardo Aires",
+  "players": [
+   {
+    "id": "charneca-caparica-afonso-teixeira",
+    "name": "Afonso Teixeira",
+    "position": "GR",
+    "note": "ex-Alfarim"
+   }
+  ]
+ },
+ "vasco-da-gama": {
+  "coach": "Paulo Silva",
+  "players": [
+   {
+    "id": "vasco-da-gama-cedric-lopes",
+    "name": "Cedric Lopes",
+    "position": "GR",
+    "note": "ex-GC Sines"
+   },
+   {
+    "id": "vasco-da-gama-jairo-sousa",
+    "name": "Jairo Sousa",
+    "position": "DEF",
+    "note": "ex-Porto Covo"
+   },
+   {
+    "id": "vasco-da-gama-francisco-costa",
+    "name": "Francisco Costa",
+    "position": "DEF",
+    "note": "ex-U. Santiago"
+   },
+   {
+    "id": "vasco-da-gama-valdir-silva",
+    "name": "Valdir Silva",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "vasco-da-gama-daniel-santos",
+    "name": "Daniel Santos",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "vasco-da-gama-manuel-guerreiro",
+    "name": "Manuel Guerreiro",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "vasco-da-gama-vasco-fernandes",
+    "name": "Vasco Fernandes",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "vasco-da-gama-leonardo-jacinto",
+    "name": "Leonardo Jacinto",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "vasco-da-gama-ali-echhaibi",
+    "name": "Ali Echhaibi",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "vasco-da-gama-joao-viegas",
+    "name": "João Viegas",
+    "position": "MED",
+    "note": "ex-U. Santiago"
+   },
+   {
+    "id": "vasco-da-gama-sandro-conceicao",
+    "name": "Sandro Conceição",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "vasco-da-gama-antonio-ribeiro",
+    "name": "António Ribeiro",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "vasco-da-gama-pedro-sousa",
+    "name": "Pedro Sousa",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "vasco-da-gama-alex-gomes",
+    "name": "Alex Gomes",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "vasco-da-gama-goncalo-torpes",
+    "name": "Gonçalo Torpes",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "vasco-da-gama-marcelo-cassiano",
+    "name": "Marcelo Cassiano",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "vasco-da-gama-afonso-raposo",
+    "name": "Afonso Raposo",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "vasco-da-gama-modou-samb",
+    "name": "Modou Samb",
+    "position": "AVA",
+    "note": "ex-Porto Covo"
+   },
+   {
+    "id": "vasco-da-gama-edi-silva",
+    "name": "Edi Silva",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "vasco-da-gama-andre-trindade",
+    "name": "André Trindade",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "vasco-da-gama-filipe-ribeiro",
+    "name": "Filipe Ribeiro",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "vasco-da-gama-joao-oliveira",
+    "name": "João Oliveira",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "vasco-da-gama-joao-goncalves",
+    "name": "João Gonçalves",
+    "position": "AVA",
+    "note": null
+   }
+  ]
+ },
+ "seixal-1925": {
+  "coach": "Tiago Correia",
+  "players": [
+   {
+    "id": "seixal-1925-tiago-jota",
+    "name": "Tiago Jota",
+    "position": "GR",
+    "note": "ex-Eléctrico"
+   },
+   {
+    "id": "seixal-1925-andre-ferreira",
+    "name": "André Ferreira",
+    "position": "GR",
+    "note": "ex-Almada"
+   },
+   {
+    "id": "seixal-1925-fabio-delgado",
+    "name": "Fábio Delgado",
+    "position": "DEF",
+    "note": "ex-Desp. Fabril"
+   },
+   {
+    "id": "seixal-1925-fabio-freitas",
+    "name": "Fábio Freitas",
+    "position": "DEF",
+    "note": "ex-Palmelense"
+   },
+   {
+    "id": "seixal-1925-tiago-goncalves",
+    "name": "Tiago Gonçalves",
+    "position": "DEF",
+    "note": "ex-Pinhalnovense"
+   },
+   {
+    "id": "seixal-1925-rui-correia",
+    "name": "Rui Correia",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "seixal-1925-leonildo-soares",
+    "name": "Leonildo Soares",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "seixal-1925-ronivaldo-ferreira",
+    "name": "Ronivaldo Ferreira",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "seixal-1925-tomas-constantino",
+    "name": "Tomás Constantino",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "seixal-1925-francisco-regala",
+    "name": "Francisco Regala",
+    "position": "MED",
+    "note": "ex-juniores do Torreense"
+   },
+   {
+    "id": "seixal-1925-pedro-pereira",
+    "name": "Pedro Pereira",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "seixal-1925-pedro-costa",
+    "name": "Pedro Costa",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "seixal-1925-martim-heitor",
+    "name": "Martim Heitor",
+    "position": "MED",
+    "note": "ex-júnior"
+   },
+   {
+    "id": "seixal-1925-ivan-reis",
+    "name": "Ivan Reis",
+    "position": "AVA",
+    "note": "ex-Desp. Fabril"
+   },
+   {
+    "id": "seixal-1925-goncalo-martins",
+    "name": "Gonçalo Martins",
+    "position": "AVA",
+    "note": "ex-Banheirense"
+   },
+   {
+    "id": "seixal-1925-rodrigo-vicente",
+    "name": "Rodrigo Vicente",
+    "position": "AVA",
+    "note": "ex-Banheirense"
+   },
+   {
+    "id": "seixal-1925-alex-graca",
+    "name": "Alex Graça",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "seixal-1925-luis-leitao",
+    "name": "Luís Leitão",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "seixal-1925-cristiano-quaresma",
+    "name": "Cristiano Quaresma",
+    "position": "AVA",
+    "note": null
+   }
+  ]
+ },
+ "amora-b": {
+  "coach": "Jason Fortes",
+  "players": []
+ },
+ "grandolense": {
+  "coach": "Nuno Pinto",
+  "players": [
+   {
+    "id": "grandolense-ricardo-goncalves",
+    "name": "Ricardo Gonçalves",
+    "position": "GR",
+    "note": null
+   },
+   {
+    "id": "grandolense-alisson-neves",
+    "name": "Alisson Neves",
+    "position": "GR",
+    "note": null
+   },
+   {
+    "id": "grandolense-simao-sardinha",
+    "name": "Simão Sardinha",
+    "position": "DEF",
+    "note": "ex-Barreirense"
+   },
+   {
+    "id": "grandolense-tomas-jesus",
+    "name": "Tomás Jesus",
+    "position": "DEF",
+    "note": "ex-CO Montijo"
+   },
+   {
+    "id": "grandolense-rafael-ganhao",
+    "name": "Rafael Ganhão",
+    "position": "DEF",
+    "note": "ex-júnior"
+   },
+   {
+    "id": "grandolense-alexandre-goncalves",
+    "name": "Alexandre Gonçalves",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "grandolense-daniel-severino",
+    "name": "Daniel Severino",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "grandolense-bernardo-duarte",
+    "name": "Bernardo Duarte",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "grandolense-junior",
+    "name": "Júnior",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "grandolense-rodrigo-mira",
+    "name": "Rodrigo Mira",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "grandolense-telmo-tavares",
+    "name": "Telmo Tavares",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "grandolense-fernando-pira",
+    "name": "Fernando Pira",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "grandolense-afonso-costa",
+    "name": "Afonso Costa",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "grandolense-alexandre-batista",
+    "name": "Alexandre Batista",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "grandolense-rodrigo-cardoso",
+    "name": "Rodrigo Cardoso",
+    "position": "MED",
+    "note": "ex-júnior"
+   },
+   {
+    "id": "grandolense-simao-noronha",
+    "name": "Simão Noronha",
+    "position": "MED",
+    "note": "ex-júnior"
+   },
+   {
+    "id": "grandolense-martim-casimiro",
+    "name": "Martim Casimiro",
+    "position": "AVA",
+    "note": "ex-Comércio Indústria"
+   },
+   {
+    "id": "grandolense-rafael-candido",
+    "name": "Rafael Cândido",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "grandolense-leandro-alves",
+    "name": "Leandro Alves",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "grandolense-goncalo-batista",
+    "name": "Gonçalo Batista",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "grandolense-ricky",
+    "name": "Ricky",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "grandolense-tiago-louro",
+    "name": "Tiago Louro",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "grandolense-flavio-amaro",
+    "name": "Flávio Amaro",
+    "position": "AVA",
+    "note": null
+   }
+  ]
+ },
+ "uniao-santiago": {
+  "coach": "Carlos Ferreira",
+  "players": [
+   {
+    "id": "uniao-santiago-joao-correia",
+    "name": "João Correia",
+    "position": "GR",
+    "note": "ex-V. Gama"
+   },
+   {
+    "id": "uniao-santiago-diogo-silva",
+    "name": "Diogo Silva",
+    "position": "GR",
+    "note": "GC Sines"
+   },
+   {
+    "id": "uniao-santiago-edmilson-gomes",
+    "name": "Edmilson Gomes",
+    "position": "DEF",
+    "note": "ex-V. Gama"
+   },
+   {
+    "id": "uniao-santiago-tiago-brito",
+    "name": "Tiago Brito",
+    "position": "DEF",
+    "note": "ex-Aljustrelense"
+   },
+   {
+    "id": "uniao-santiago-joao-vitor",
+    "name": "João Vítor",
+    "position": "DEF",
+    "note": "ex-V. Gama"
+   },
+   {
+    "id": "uniao-santiago-george-lucas",
+    "name": "George Lucas",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "uniao-santiago-lucas-bridey",
+    "name": "Lucas Bridey",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "uniao-santiago-tiago-farinha",
+    "name": "Tiago Farinha",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "uniao-santiago-pedro-kiaku",
+    "name": "Pedro Kiaku",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "uniao-santiago-ruben-cabral",
+    "name": "Rúben Cabral",
+    "position": "MED",
+    "note": "ex-U. Leiria"
+   },
+   {
+    "id": "uniao-santiago-americo-paulo",
+    "name": "Américo Paulo",
+    "position": "MED",
+    "note": "ex-Moura"
+   },
+   {
+    "id": "uniao-santiago-henrique-sequeira",
+    "name": "Henrique Sequeira",
+    "position": "MED",
+    "note": "ex-Imortal"
+   },
+   {
+    "id": "uniao-santiago-simao-silva",
+    "name": "Simão Silva",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "uniao-santiago-luis-andrade",
+    "name": "Luís Andrade",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "uniao-santiago-diogo-rodrigues",
+    "name": "Diogo Rodrigues",
+    "position": "MED",
+    "note": "ex-júnior"
+   },
+   {
+    "id": "uniao-santiago-vava",
+    "name": "Vavá",
+    "position": "AVA",
+    "note": "ex-Barreirense"
+   },
+   {
+    "id": "uniao-santiago-omar-fonseca",
+    "name": "Omar Fonseca",
+    "position": "AVA",
+    "note": "ex-Castrense"
+   },
+   {
+    "id": "uniao-santiago-jean-dasylva",
+    "name": "Jean Dasylva",
+    "position": "AVA",
+    "note": "ex-Lagameças"
+   },
+   {
+    "id": "uniao-santiago-daniel-mendonca",
+    "name": "Daniel Mendonça",
+    "position": "AVA",
+    "note": "júnior"
+   },
+   {
+    "id": "uniao-santiago-epifanio-ca",
+    "name": "Epifânio Cá",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "uniao-santiago-manuel-godinho",
+    "name": "Manuel Godinho",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "uniao-santiago-william-fambe",
+    "name": "William Fambé",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "uniao-santiago-fabio-dieb",
+    "name": "Fábio Dieb",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "uniao-santiago-joao-raposo",
+    "name": "João Raposo",
+    "position": "AVA",
+    "note": null
+   }
+  ]
+ },
+ "lagamecas": {
+  "coach": "Hugo Mira",
+  "players": [
+   {
+    "id": "lagamecas-julio-cesar",
+    "name": "Júlio César",
+    "position": "AVA",
+    "note": "ex-Bairro do Olival"
+   },
+   {
+    "id": "lagamecas-juan-izzo",
+    "name": "Juan Izzo",
+    "position": "AVA",
+    "note": "São Domingos"
+   }
+  ]
+ },
+ "barreirense": {
+  "coach": "Jorge Prazeres",
+  "players": [
+   {
+    "id": "barreirense-diogo-almeida",
+    "name": "Diogo Almeida",
+    "position": "GR",
+    "note": null
+   },
+   {
+    "id": "barreirense-calilo-cisse",
+    "name": "Calilo Cissé",
+    "position": "DEF",
+    "note": "ex-Lagameças"
+   },
+   {
+    "id": "barreirense-tiago-nunes",
+    "name": "Tiago Nunes",
+    "position": "DEF",
+    "note": "ex-Vitória FC"
+   },
+   {
+    "id": "barreirense-iero-seidi",
+    "name": "Iero Seidi",
+    "position": "DEF",
+    "note": "Atl. Malveira"
+   },
+   {
+    "id": "barreirense-dionatan-santos",
+    "name": "Dionatan Santos",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "barreirense-matheus-prado",
+    "name": "Matheus Prado",
+    "position": "DEF",
+    "note": "todos, ex-Portel"
+   },
+   {
+    "id": "barreirense-wender-gabriel",
+    "name": "Wender Gabriel",
+    "position": "DEF",
+    "note": "todos, ex-Portel"
+   },
+   {
+    "id": "barreirense-joao-martinho",
+    "name": "João Martinho",
+    "position": "DEF",
+    "note": "ex-Ponterrolense"
+   },
+   {
+    "id": "barreirense-ricardo-moreira",
+    "name": "Ricardo Moreira",
+    "position": "DEF",
+    "note": "ex-Cabrela"
+   },
+   {
+    "id": "barreirense-guilherme-candeias",
+    "name": "Guilherme Candeias",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "barreirense-pedro-jose",
+    "name": "Pedro José",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "barreirense-joao-bandeira",
+    "name": "João Bandeira",
+    "position": "MED",
+    "note": "ex-Elvas"
+   },
+   {
+    "id": "barreirense-tomas-gutierres",
+    "name": "Tomás Gutierres",
+    "position": "MED",
+    "note": "ex-Real SC"
+   },
+   {
+    "id": "barreirense-ricardo-canario",
+    "name": "Ricardo Canário",
+    "position": "MED",
+    "note": "ex-Torreense"
+   },
+   {
+    "id": "barreirense-marcelino-sa",
+    "name": "Marcelino Sá",
+    "position": "MED",
+    "note": "ex-Lagameças"
+   },
+   {
+    "id": "barreirense-miguel-hernandez",
+    "name": "Miguel Hernandez",
+    "position": "MED",
+    "note": "ex-C. Piedade"
+   },
+   {
+    "id": "barreirense-rodrigo-loureiro",
+    "name": "Rodrigo Loureiro",
+    "position": "MED",
+    "note": "ex-Quintajense"
+   },
+   {
+    "id": "barreirense-tomas-ferro",
+    "name": "Tomás Ferro",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "barreirense-ayrton-lima",
+    "name": "Ayrton Lima",
+    "position": "AVA",
+    "note": "ex-Lagameças"
+   },
+   {
+    "id": "barreirense-joao-ratinho",
+    "name": "João Ratinho",
+    "position": "AVA",
+    "note": "ex-Com. Indústria"
+   },
+   {
+    "id": "barreirense-titico",
+    "name": "Titico",
+    "position": "AVA",
+    "note": "ex-Atl. Reguengos"
+   },
+   {
+    "id": "barreirense-cajo-conceicao",
+    "name": "Cajó Conceição",
+    "position": "AVA",
+    "note": null
+   }
+  ]
+ },
+ "comercio-e-industria": {
+  "coach": "Alfredo Lopes",
+  "players": [
+   {
+    "id": "comercio-e-industria-afonso-pereira",
+    "name": "Afonso Pereira",
+    "position": "GR",
+    "note": "ex-Vitória FC- Juniores"
+   },
+   {
+    "id": "comercio-e-industria-thierry-santos",
+    "name": "Thierry Santos",
+    "position": "GR",
+    "note": null
+   },
+   {
+    "id": "comercio-e-industria-francisco-flores",
+    "name": "Francisco Flores",
+    "position": "GR",
+    "note": "ex-júnior"
+   },
+   {
+    "id": "comercio-e-industria-guilherme-nobre",
+    "name": "Guilherme Nobre",
+    "position": "DEF",
+    "note": "ex-C. Piedade"
+   },
+   {
+    "id": "comercio-e-industria-leonardo-paulino",
+    "name": "Leonardo Paulino",
+    "position": "DEF",
+    "note": "ex-Pescadores"
+   },
+   {
+    "id": "comercio-e-industria-bernardo-pires",
+    "name": "Bernardo Pires",
+    "position": "DEF",
+    "note": "ex-Almodôvar"
+   },
+   {
+    "id": "comercio-e-industria-pedro-rodrigues",
+    "name": "Pedro Rodrigues",
+    "position": "DEF",
+    "note": "ex-CO Montijo"
+   },
+   {
+    "id": "comercio-e-industria-ruben-fonseca",
+    "name": "Rúben Fonseca",
+    "position": "DEF",
+    "note": "ex-Mocidade Praiense"
+   },
+   {
+    "id": "comercio-e-industria-guilherme-santos",
+    "name": "Guilherme Santos",
+    "position": "DEF",
+    "note": "ex-Vitória FC"
+   },
+   {
+    "id": "comercio-e-industria-rodrigo-cunha",
+    "name": "Rodrigo Cunha",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "comercio-e-industria-joao-rodrigues",
+    "name": "João Rodrigues",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "comercio-e-industria-andre-nunes",
+    "name": "André Nunes",
+    "position": "MED",
+    "note": "ex-Sesimbra"
+   },
+   {
+    "id": "comercio-e-industria-afonso-mendes",
+    "name": "Afonso Mendes",
+    "position": "MED",
+    "note": "ex-júnior"
+   },
+   {
+    "id": "comercio-e-industria-ruben-santos",
+    "name": "Rúben Santos",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "comercio-e-industria-eric-antonio",
+    "name": "Eric António",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "comercio-e-industria-ruben-nicolau",
+    "name": "Rúben Nicolau",
+    "position": "AVA",
+    "note": "ex-Vendas Novas"
+   },
+   {
+    "id": "comercio-e-industria-tiago-neves",
+    "name": "Tiago Neves",
+    "position": "AVA",
+    "note": "ex-Fabril"
+   },
+   {
+    "id": "comercio-e-industria-martim-seca",
+    "name": "Martim Seca",
+    "position": "AVA",
+    "note": "ex-Vitória FC"
+   },
+   {
+    "id": "comercio-e-industria-guilherme-grosa",
+    "name": "Guilherme Grosa",
+    "position": "AVA",
+    "note": "ex-júnior do Vitória FC"
+   },
+   {
+    "id": "comercio-e-industria-tomas-massacote",
+    "name": "Tomás Massacote",
+    "position": "AVA",
+    "note": "ex-júnior"
+   },
+   {
+    "id": "comercio-e-industria-tiago-silva",
+    "name": "Tiago Silva",
+    "position": "AVA",
+    "note": null
+   }
+  ]
+ },
+ "cova-piedade": {
+  "coach": "Henrique Silva",
+  "players": [
+   {
+    "id": "cova-piedade-joao-cardoso",
+    "name": "João Cardoso",
+    "position": "GR",
+    "note": "ex-Pescadores"
+   },
+   {
+    "id": "cova-piedade-petterson-santos",
+    "name": "Petterson Santos",
+    "position": "GR",
+    "note": "ex-Fabril"
+   },
+   {
+    "id": "cova-piedade-duarte-rico",
+    "name": "Duarte Rico",
+    "position": "GR",
+    "note": null
+   },
+   {
+    "id": "cova-piedade-andre-nabais",
+    "name": "André Nabais",
+    "position": "GR",
+    "note": null
+   },
+   {
+    "id": "cova-piedade-simao-nunes",
+    "name": "Simão Nunes",
+    "position": "DEF",
+    "note": "ex-Barreirense"
+   },
+   {
+    "id": "cova-piedade-pedro-francisco",
+    "name": "Pedro Francisco",
+    "position": "DEF",
+    "note": "ex-Samora Correia"
+   },
+   {
+    "id": "cova-piedade-henrique-bombas",
+    "name": "Henrique Bombas",
+    "position": "DEF",
+    "note": "ex-júnior"
+   },
+   {
+    "id": "cova-piedade-afonso-farinha",
+    "name": "Afonso Farinha",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "cova-piedade-goncalo-castela",
+    "name": "Gonçalo Castela",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "cova-piedade-joao-mizalaque",
+    "name": "João Mizalaque",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "cova-piedade-flavio-moniz",
+    "name": "Flávio Moniz",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "cova-piedade-daniel-carvalha",
+    "name": "Daniel Carvalha",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "cova-piedade-afonso-correia",
+    "name": "Afonso Correia",
+    "position": "DEF",
+    "note": null
+   },
+   {
+    "id": "cova-piedade-franca",
+    "name": "França",
+    "position": "MED",
+    "note": "ambos, ex-Pescadores"
+   },
+   {
+    "id": "cova-piedade-vasco-ramalho",
+    "name": "Vasco Ramalho",
+    "position": "MED",
+    "note": "ambos, ex-Pescadores"
+   },
+   {
+    "id": "cova-piedade-tiago-feiteira",
+    "name": "Tiago Feiteira",
+    "position": "MED",
+    "note": "ex-Sintrense"
+   },
+   {
+    "id": "cova-piedade-duarte-ramos",
+    "name": "Duarte Ramos",
+    "position": "MED",
+    "note": "Esperança de Andorra"
+   },
+   {
+    "id": "cova-piedade-andre-pimenta",
+    "name": "André Pimenta",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "cova-piedade-luis-oliveira",
+    "name": "Luís Oliveira",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "cova-piedade-rafa-carvalho",
+    "name": "Rafa Carvalho",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "cova-piedade-joao-alves",
+    "name": "João Alves",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "cova-piedade-guilherme-correia",
+    "name": "Guilherme Correia",
+    "position": "MED",
+    "note": null
+   },
+   {
+    "id": "cova-piedade-luis-leal",
+    "name": "Luís Leal",
+    "position": "AVA",
+    "note": "Angizia Luco - Itália"
+   },
+   {
+    "id": "cova-piedade-lourenco-sousa",
+    "name": "Lourenço Sousa",
+    "position": "AVA",
+    "note": "ex-Los Barrios - Espanha"
+   },
+   {
+    "id": "cova-piedade-hugo-sousa",
+    "name": "Hugo Sousa",
+    "position": "AVA",
+    "note": "ex-Alcochetense"
+   },
+   {
+    "id": "cova-piedade-kikito-dias",
+    "name": "Kikito Dias",
+    "position": "AVA",
+    "note": "ex-URD Santa Maria"
+   },
+   {
+    "id": "cova-piedade-gabriel-bastos",
+    "name": "Gabriel Bastos",
+    "position": "AVA",
+    "note": "ex-júnior"
+   },
+   {
+    "id": "cova-piedade-guilherme-tavares",
+    "name": "Guilherme Tavares",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "cova-piedade-fernando-rufino",
+    "name": "Fernando Rufino",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "cova-piedade-goncalo-pinto",
+    "name": "Gonçalo Pinto",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "cova-piedade-eduardo-campillo",
+    "name": "Eduardo Campillo",
+    "position": "AVA",
+    "note": null
+   },
+   {
+    "id": "cova-piedade-xavier-duarte",
+    "name": "Xavier Duarte",
+    "position": "AVA",
+    "note": null
+   }
+  ]
+ }
+}

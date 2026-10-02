@@ -1,0 +1,2006 @@
+{
+ "teams": [
+  {
+   "id": "amora-b",
+   "name": "Amora Fc Sad \"B\"",
+   "shortName": "Amora B"
+  },
+  {
+   "id": "olimpico-montijo",
+   "name": "C. Olímpico Do Montijo, Fut Sad",
+   "shortName": "Olímpico Montijo"
+  },
+  {
+   "id": "cova-piedade",
+   "name": "Cd Cova Piedade",
+   "shortName": "Cova Piedade"
+  },
+  {
+   "id": "charneca-caparica",
+   "name": "Charneca Caparica Fc",
+   "shortName": "Charneca Caparica"
+  },
+  {
+   "id": "grandolense",
+   "name": "Cr O Grandolense",
+   "shortName": "Grandolense"
+  },
+  {
+   "id": "barreirense",
+   "name": "Fc Barreirense",
+   "shortName": "Barreirense"
+  },
+  {
+   "id": "alfarim",
+   "name": "Gd Alfarim",
+   "shortName": "Alfarim"
+  },
+  {
+   "id": "lagamecas",
+   "name": "Gd Lagameças",
+   "shortName": "Lagameças"
+  },
+  {
+   "id": "pescadores",
+   "name": "Gd Pescadores Costa Caparica",
+   "shortName": "Pescadores"
+  },
+  {
+   "id": "sesimbra",
+   "name": "Gd Sesimbra",
+   "shortName": "Sesimbra"
+  },
+  {
+   "id": "palmelense",
+   "name": "Palmelense Fc",
+   "shortName": "Palmelense"
+  },
+  {
+   "id": "seixal-1925",
+   "name": "Seixal 1925",
+   "shortName": "Seixal 1925"
+  },
+  {
+   "id": "comercio-e-industria",
+   "name": "Uf Comércio Indústria",
+   "shortName": "Comércio e Indústria"
+  },
+  {
+   "id": "moitense",
+   "name": "Ufc Moitense",
+   "shortName": "Moitense"
+  },
+  {
+   "id": "uniao-santiago",
+   "name": "União Sc",
+   "shortName": "União Santiago"
+  },
+  {
+   "id": "vasco-da-gama",
+   "name": "Vasco Gama Ac",
+   "shortName": "Vasco da Gama"
+  }
+ ],
+ "matches": [
+  {
+   "id": "j1-cova-piedade-uniao-santiago",
+   "round": 1,
+   "kickoff": "2026-10-04T15:00:00+01:00",
+   "venue": "Estadio Municipal José Martins Vieira",
+   "home": "cova-piedade",
+   "away": "uniao-santiago"
+  },
+  {
+   "id": "j1-lagamecas-grandolense",
+   "round": 1,
+   "kickoff": "2026-10-04T15:00:00+01:00",
+   "venue": "Campo A C Esteves",
+   "home": "lagamecas",
+   "away": "grandolense"
+  },
+  {
+   "id": "j1-pescadores-barreirense",
+   "round": 1,
+   "kickoff": "2026-10-04T15:00:00+01:00",
+   "venue": "Campo Pescadores",
+   "home": "pescadores",
+   "away": "barreirense"
+  },
+  {
+   "id": "j1-sesimbra-comercio-e-industria",
+   "round": 1,
+   "kickoff": "2026-10-04T15:00:00+01:00",
+   "venue": "Estádio Vila Amália",
+   "home": "sesimbra",
+   "away": "comercio-e-industria"
+  },
+  {
+   "id": "j1-moitense-amora-b",
+   "round": 1,
+   "kickoff": "2026-10-04T15:00:00+01:00",
+   "venue": "Juncal Desportos",
+   "home": "moitense",
+   "away": "amora-b"
+  },
+  {
+   "id": "j1-vasco-da-gama-seixal-1925",
+   "round": 1,
+   "kickoff": "2026-10-04T15:00:00+01:00",
+   "venue": "Estadio Municipal Sines",
+   "home": "vasco-da-gama",
+   "away": "seixal-1925"
+  },
+  {
+   "id": "j1-charneca-caparica-palmelense",
+   "round": 1,
+   "kickoff": "2026-10-04T15:00:00+01:00",
+   "venue": "Campo Cassapo",
+   "home": "charneca-caparica",
+   "away": "palmelense"
+  },
+  {
+   "id": "j1-olimpico-montijo-alfarim",
+   "round": 1,
+   "kickoff": "2026-10-04T15:00:00+01:00",
+   "venue": "Campo Liberdade",
+   "home": "olimpico-montijo",
+   "away": "alfarim"
+  },
+  {
+   "id": "j2-amora-b-cova-piedade",
+   "round": 2,
+   "kickoff": "2026-10-11T15:00:00+01:00",
+   "venue": "Parque Do Serrado",
+   "home": "amora-b",
+   "away": "cova-piedade"
+  },
+  {
+   "id": "j2-grandolense-charneca-caparica",
+   "round": 2,
+   "kickoff": "2026-10-11T15:00:00+01:00",
+   "venue": "Campo Municipal Nº 1 Grandola",
+   "home": "grandolense",
+   "away": "charneca-caparica"
+  },
+  {
+   "id": "j2-barreirense-sesimbra",
+   "round": 2,
+   "kickoff": "2026-10-11T15:00:00+01:00",
+   "venue": null,
+   "home": "barreirense",
+   "away": "sesimbra"
+  },
+  {
+   "id": "j2-palmelense-vasco-da-gama",
+   "round": 2,
+   "kickoff": "2026-10-11T15:00:00+01:00",
+   "venue": "Campo Cornelio Palma",
+   "home": "palmelense",
+   "away": "vasco-da-gama"
+  },
+  {
+   "id": "j2-comercio-e-industria-moitense",
+   "round": 2,
+   "kickoff": "2026-10-11T15:00:00+01:00",
+   "venue": "Campo Bela Vista",
+   "home": "comercio-e-industria",
+   "away": "moitense"
+  },
+  {
+   "id": "j2-uniao-santiago-lagamecas",
+   "round": 2,
+   "kickoff": "2026-10-11T15:00:00+01:00",
+   "venue": "Campo Mirobriga",
+   "home": "uniao-santiago",
+   "away": "lagamecas"
+  },
+  {
+   "id": "j2-alfarim-pescadores",
+   "round": 2,
+   "kickoff": "2026-10-11T15:00:00+01:00",
+   "venue": "Campo \"Alfarim\"",
+   "home": "alfarim",
+   "away": "pescadores"
+  },
+  {
+   "id": "j2-seixal-1925-olimpico-montijo",
+   "round": 2,
+   "kickoff": "2026-10-11T15:00:00+01:00",
+   "venue": "Estádio Municipal Do Bravo",
+   "home": "seixal-1925",
+   "away": "olimpico-montijo"
+  },
+  {
+   "id": "j3-vasco-da-gama-grandolense",
+   "round": 3,
+   "kickoff": "2026-10-17T15:00:00+01:00",
+   "venue": "Estadio Municipal Sines",
+   "home": "vasco-da-gama",
+   "away": "grandolense"
+  },
+  {
+   "id": "j3-alfarim-seixal-1925",
+   "round": 3,
+   "kickoff": "2026-10-18T15:00:00+01:00",
+   "venue": "Campo \"Alfarim\"",
+   "home": "alfarim",
+   "away": "seixal-1925"
+  },
+  {
+   "id": "j3-charneca-caparica-uniao-santiago",
+   "round": 3,
+   "kickoff": "2026-10-18T15:00:00+01:00",
+   "venue": "Campo Cassapo",
+   "home": "charneca-caparica",
+   "away": "uniao-santiago"
+  },
+  {
+   "id": "j3-olimpico-montijo-palmelense",
+   "round": 3,
+   "kickoff": "2026-10-18T15:00:00+01:00",
+   "venue": "Campo Liberdade",
+   "home": "olimpico-montijo",
+   "away": "palmelense"
+  },
+  {
+   "id": "j3-cova-piedade-comercio-e-industria",
+   "round": 3,
+   "kickoff": "2026-10-18T15:00:00+01:00",
+   "venue": "Estadio Municipal José Martins Vieira",
+   "home": "cova-piedade",
+   "away": "comercio-e-industria"
+  },
+  {
+   "id": "j3-lagamecas-amora-b",
+   "round": 3,
+   "kickoff": "2026-10-18T15:00:00+01:00",
+   "venue": "Campo A C Esteves",
+   "home": "lagamecas",
+   "away": "amora-b"
+  },
+  {
+   "id": "j3-pescadores-sesimbra",
+   "round": 3,
+   "kickoff": "2026-10-18T15:00:00+01:00",
+   "venue": "Campo Pescadores",
+   "home": "pescadores",
+   "away": "sesimbra"
+  },
+  {
+   "id": "j3-moitense-barreirense",
+   "round": 3,
+   "kickoff": "2026-10-18T15:00:00+01:00",
+   "venue": "Juncal Desportos",
+   "home": "moitense",
+   "away": "barreirense"
+  },
+  {
+   "id": "j4-amora-b-charneca-caparica",
+   "round": 4,
+   "kickoff": "2026-10-25T15:00:00+00:00",
+   "venue": "Parque Do Serrado",
+   "home": "amora-b",
+   "away": "charneca-caparica"
+  },
+  {
+   "id": "j4-grandolense-olimpico-montijo",
+   "round": 4,
+   "kickoff": "2026-10-25T15:00:00+00:00",
+   "venue": "Campo Municipal Nº 1 Grandola",
+   "home": "grandolense",
+   "away": "olimpico-montijo"
+  },
+  {
+   "id": "j4-barreirense-cova-piedade",
+   "round": 4,
+   "kickoff": "2026-10-25T15:00:00+00:00",
+   "venue": "Campo Verderena",
+   "home": "barreirense",
+   "away": "cova-piedade"
+  },
+  {
+   "id": "j4-sesimbra-moitense",
+   "round": 4,
+   "kickoff": "2026-10-25T15:00:00+00:00",
+   "venue": "Estádio Vila Amália",
+   "home": "sesimbra",
+   "away": "moitense"
+  },
+  {
+   "id": "j4-palmelense-alfarim",
+   "round": 4,
+   "kickoff": "2026-10-25T15:00:00+00:00",
+   "venue": "Campo Cornelio Palma",
+   "home": "palmelense",
+   "away": "alfarim"
+  },
+  {
+   "id": "j4-comercio-e-industria-lagamecas",
+   "round": 4,
+   "kickoff": "2026-10-25T15:00:00+00:00",
+   "venue": "Campo Bela Vista",
+   "home": "comercio-e-industria",
+   "away": "lagamecas"
+  },
+  {
+   "id": "j4-uniao-santiago-vasco-da-gama",
+   "round": 4,
+   "kickoff": "2026-10-25T15:00:00+00:00",
+   "venue": "Campo Mirobriga",
+   "home": "uniao-santiago",
+   "away": "vasco-da-gama"
+  },
+  {
+   "id": "j4-seixal-1925-pescadores",
+   "round": 4,
+   "kickoff": "2026-10-25T15:00:00+00:00",
+   "venue": "Estádio Municipal Do Bravo",
+   "home": "seixal-1925",
+   "away": "pescadores"
+  },
+  {
+   "id": "j5-cova-piedade-sesimbra",
+   "round": 5,
+   "kickoff": "2026-11-01T15:00:00+00:00",
+   "venue": "Estadio Municipal José Martins Vieira",
+   "home": "cova-piedade",
+   "away": "sesimbra"
+  },
+  {
+   "id": "j5-lagamecas-barreirense",
+   "round": 5,
+   "kickoff": "2026-11-01T15:00:00+00:00",
+   "venue": "Campo A C Esteves",
+   "home": "lagamecas",
+   "away": "barreirense"
+  },
+  {
+   "id": "j5-pescadores-moitense",
+   "round": 5,
+   "kickoff": "2026-11-01T15:00:00+00:00",
+   "venue": "Campo Pescadores",
+   "home": "pescadores",
+   "away": "moitense"
+  },
+  {
+   "id": "j5-vasco-da-gama-amora-b",
+   "round": 5,
+   "kickoff": "2026-11-01T15:00:00+00:00",
+   "venue": "Estadio Municipal Sines",
+   "home": "vasco-da-gama",
+   "away": "amora-b"
+  },
+  {
+   "id": "j5-alfarim-grandolense",
+   "round": 5,
+   "kickoff": "2026-11-01T15:00:00+00:00",
+   "venue": "Campo \"Alfarim\"",
+   "home": "alfarim",
+   "away": "grandolense"
+  },
+  {
+   "id": "j5-charneca-caparica-comercio-e-industria",
+   "round": 5,
+   "kickoff": "2026-11-01T15:00:00+00:00",
+   "venue": "Campo Cassapo",
+   "home": "charneca-caparica",
+   "away": "comercio-e-industria"
+  },
+  {
+   "id": "j5-olimpico-montijo-uniao-santiago",
+   "round": 5,
+   "kickoff": "2026-11-01T15:00:00+00:00",
+   "venue": "Campo Liberdade",
+   "home": "olimpico-montijo",
+   "away": "uniao-santiago"
+  },
+  {
+   "id": "j5-seixal-1925-palmelense",
+   "round": 5,
+   "kickoff": "2026-11-01T15:00:00+00:00",
+   "venue": "Estádio Municipal Do Bravo",
+   "home": "seixal-1925",
+   "away": "palmelense"
+  },
+  {
+   "id": "j6-amora-b-olimpico-montijo",
+   "round": 6,
+   "kickoff": "2026-11-08T15:00:00+00:00",
+   "venue": "Parque Do Serrado",
+   "home": "amora-b",
+   "away": "olimpico-montijo"
+  },
+  {
+   "id": "j6-grandolense-seixal-1925",
+   "round": 6,
+   "kickoff": "2026-11-08T15:00:00+00:00",
+   "venue": "Campo Municipal Nº 1 Grandola",
+   "home": "grandolense",
+   "away": "seixal-1925"
+  },
+  {
+   "id": "j6-barreirense-charneca-caparica",
+   "round": 6,
+   "kickoff": "2026-11-08T15:00:00+00:00",
+   "venue": "Campo Verderena",
+   "home": "barreirense",
+   "away": "charneca-caparica"
+  },
+  {
+   "id": "j6-sesimbra-lagamecas",
+   "round": 6,
+   "kickoff": "2026-11-08T15:00:00+00:00",
+   "venue": "Estádio Vila Amália",
+   "home": "sesimbra",
+   "away": "lagamecas"
+  },
+  {
+   "id": "j6-palmelense-pescadores",
+   "round": 6,
+   "kickoff": "2026-11-08T15:00:00+00:00",
+   "venue": "Campo Cornelio Palma",
+   "home": "palmelense",
+   "away": "pescadores"
+  },
+  {
+   "id": "j6-moitense-cova-piedade",
+   "round": 6,
+   "kickoff": "2026-11-08T15:00:00+00:00",
+   "venue": "Juncal Desportos",
+   "home": "moitense",
+   "away": "cova-piedade"
+  },
+  {
+   "id": "j6-comercio-e-industria-vasco-da-gama",
+   "round": 6,
+   "kickoff": "2026-11-08T15:00:00+00:00",
+   "venue": "Campo Bela Vista",
+   "home": "comercio-e-industria",
+   "away": "vasco-da-gama"
+  },
+  {
+   "id": "j6-uniao-santiago-alfarim",
+   "round": 6,
+   "kickoff": "2026-11-08T15:00:00+00:00",
+   "venue": "Campo Mirobriga",
+   "home": "uniao-santiago",
+   "away": "alfarim"
+  },
+  {
+   "id": "j7-lagamecas-moitense",
+   "round": 7,
+   "kickoff": "2026-11-15T15:00:00+00:00",
+   "venue": "Campo A C Esteves",
+   "home": "lagamecas",
+   "away": "moitense"
+  },
+  {
+   "id": "j7-pescadores-cova-piedade",
+   "round": 7,
+   "kickoff": "2026-11-15T15:00:00+00:00",
+   "venue": "Campo Pescadores",
+   "home": "pescadores",
+   "away": "cova-piedade"
+  },
+  {
+   "id": "j7-palmelense-grandolense",
+   "round": 7,
+   "kickoff": "2026-11-15T15:00:00+00:00",
+   "venue": "Campo Cornelio Palma",
+   "home": "palmelense",
+   "away": "grandolense"
+  },
+  {
+   "id": "j7-vasco-da-gama-barreirense",
+   "round": 7,
+   "kickoff": "2026-11-15T15:00:00+00:00",
+   "venue": "Estadio Municipal Sines",
+   "home": "vasco-da-gama",
+   "away": "barreirense"
+  },
+  {
+   "id": "j7-alfarim-amora-b",
+   "round": 7,
+   "kickoff": "2026-11-15T15:00:00+00:00",
+   "venue": "Campo \"Alfarim\"",
+   "home": "alfarim",
+   "away": "amora-b"
+  },
+  {
+   "id": "j7-charneca-caparica-sesimbra",
+   "round": 7,
+   "kickoff": "2026-11-15T15:00:00+00:00",
+   "venue": "Campo Cassapo",
+   "home": "charneca-caparica",
+   "away": "sesimbra"
+  },
+  {
+   "id": "j7-olimpico-montijo-comercio-e-industria",
+   "round": 7,
+   "kickoff": "2026-11-15T15:00:00+00:00",
+   "venue": "Campo Liberdade",
+   "home": "olimpico-montijo",
+   "away": "comercio-e-industria"
+  },
+  {
+   "id": "j7-seixal-1925-uniao-santiago",
+   "round": 7,
+   "kickoff": "2026-11-15T15:00:00+00:00",
+   "venue": "Estádio Municipal Do Bravo",
+   "home": "seixal-1925",
+   "away": "uniao-santiago"
+  },
+  {
+   "id": "j8-amora-b-seixal-1925",
+   "round": 8,
+   "kickoff": "2026-11-22T15:00:00+00:00",
+   "venue": "Parque Do Serrado",
+   "home": "amora-b",
+   "away": "seixal-1925"
+  },
+  {
+   "id": "j8-grandolense-pescadores",
+   "round": 8,
+   "kickoff": "2026-11-22T15:00:00+00:00",
+   "venue": "Campo Municipal Nº 1 Grandola",
+   "home": "grandolense",
+   "away": "pescadores"
+  },
+  {
+   "id": "j8-cova-piedade-lagamecas",
+   "round": 8,
+   "kickoff": "2026-11-22T15:00:00+00:00",
+   "venue": "Estadio Municipal José Martins Vieira",
+   "home": "cova-piedade",
+   "away": "lagamecas"
+  },
+  {
+   "id": "j8-barreirense-olimpico-montijo",
+   "round": 8,
+   "kickoff": "2026-11-22T15:00:00+00:00",
+   "venue": "Campo Verderena",
+   "home": "barreirense",
+   "away": "olimpico-montijo"
+  },
+  {
+   "id": "j8-sesimbra-vasco-da-gama",
+   "round": 8,
+   "kickoff": "2026-11-22T15:00:00+00:00",
+   "venue": "Estádio Vila Amália",
+   "home": "sesimbra",
+   "away": "vasco-da-gama"
+  },
+  {
+   "id": "j8-moitense-charneca-caparica",
+   "round": 8,
+   "kickoff": "2026-11-22T15:00:00+00:00",
+   "venue": "Juncal Desportos",
+   "home": "moitense",
+   "away": "charneca-caparica"
+  },
+  {
+   "id": "j8-comercio-e-industria-alfarim",
+   "round": 8,
+   "kickoff": "2026-11-22T15:00:00+00:00",
+   "venue": "Campo Bela Vista",
+   "home": "comercio-e-industria",
+   "away": "alfarim"
+  },
+  {
+   "id": "j8-uniao-santiago-palmelense",
+   "round": 8,
+   "kickoff": "2026-11-22T15:00:00+00:00",
+   "venue": "Campo Mirobriga",
+   "home": "uniao-santiago",
+   "away": "palmelense"
+  },
+  {
+   "id": "j9-grandolense-uniao-santiago",
+   "round": 9,
+   "kickoff": "2026-11-29T15:00:00+00:00",
+   "venue": "Campo Municipal Nº 1 Grandola",
+   "home": "grandolense",
+   "away": "uniao-santiago"
+  },
+  {
+   "id": "j9-pescadores-lagamecas",
+   "round": 9,
+   "kickoff": "2026-11-29T15:00:00+00:00",
+   "venue": "Campo Pescadores",
+   "home": "pescadores",
+   "away": "lagamecas"
+  },
+  {
+   "id": "j9-palmelense-amora-b",
+   "round": 9,
+   "kickoff": "2026-11-29T15:00:00+00:00",
+   "venue": "Campo Cornelio Palma",
+   "home": "palmelense",
+   "away": "amora-b"
+  },
+  {
+   "id": "j9-vasco-da-gama-moitense",
+   "round": 9,
+   "kickoff": "2026-11-29T15:00:00+00:00",
+   "venue": "Estadio Municipal Sines",
+   "home": "vasco-da-gama",
+   "away": "moitense"
+  },
+  {
+   "id": "j9-alfarim-barreirense",
+   "round": 9,
+   "kickoff": "2026-11-29T15:00:00+00:00",
+   "venue": "Campo \"Alfarim\"",
+   "home": "alfarim",
+   "away": "barreirense"
+  },
+  {
+   "id": "j9-charneca-caparica-cova-piedade",
+   "round": 9,
+   "kickoff": "2026-11-29T15:00:00+00:00",
+   "venue": "Campo Cassapo",
+   "home": "charneca-caparica",
+   "away": "cova-piedade"
+  },
+  {
+   "id": "j9-olimpico-montijo-sesimbra",
+   "round": 9,
+   "kickoff": "2026-11-29T15:00:00+00:00",
+   "venue": "Campo Liberdade",
+   "home": "olimpico-montijo",
+   "away": "sesimbra"
+  },
+  {
+   "id": "j9-seixal-1925-comercio-e-industria",
+   "round": 9,
+   "kickoff": "2026-11-29T15:00:00+00:00",
+   "venue": "Estádio Municipal Do Bravo",
+   "home": "seixal-1925",
+   "away": "comercio-e-industria"
+  },
+  {
+   "id": "j10-amora-b-grandolense",
+   "round": 10,
+   "kickoff": "2026-12-06T15:00:00+00:00",
+   "venue": "Parque Do Serrado",
+   "home": "amora-b",
+   "away": "grandolense"
+  },
+  {
+   "id": "j10-cova-piedade-vasco-da-gama",
+   "round": 10,
+   "kickoff": "2026-12-06T15:00:00+00:00",
+   "venue": "Estadio Municipal José Martins Vieira",
+   "home": "cova-piedade",
+   "away": "vasco-da-gama"
+  },
+  {
+   "id": "j10-barreirense-seixal-1925",
+   "round": 10,
+   "kickoff": "2026-12-06T15:00:00+00:00",
+   "venue": "Campo Verderena",
+   "home": "barreirense",
+   "away": "seixal-1925"
+  },
+  {
+   "id": "j10-lagamecas-charneca-caparica",
+   "round": 10,
+   "kickoff": "2026-12-06T15:00:00+00:00",
+   "venue": "Campo A C Esteves",
+   "home": "lagamecas",
+   "away": "charneca-caparica"
+  },
+  {
+   "id": "j10-sesimbra-alfarim",
+   "round": 10,
+   "kickoff": "2026-12-06T15:00:00+00:00",
+   "venue": "Estádio Vila Amália",
+   "home": "sesimbra",
+   "away": "alfarim"
+  },
+  {
+   "id": "j10-moitense-olimpico-montijo",
+   "round": 10,
+   "kickoff": "2026-12-06T15:00:00+00:00",
+   "venue": "Juncal Desportos",
+   "home": "moitense",
+   "away": "olimpico-montijo"
+  },
+  {
+   "id": "j10-comercio-e-industria-palmelense",
+   "round": 10,
+   "kickoff": "2026-12-06T15:00:00+00:00",
+   "venue": "Campo Bela Vista",
+   "home": "comercio-e-industria",
+   "away": "palmelense"
+  },
+  {
+   "id": "j10-uniao-santiago-pescadores",
+   "round": 10,
+   "kickoff": "2026-12-06T15:00:00+00:00",
+   "venue": "Campo Mirobriga",
+   "home": "uniao-santiago",
+   "away": "pescadores"
+  },
+  {
+   "id": "j11-grandolense-comercio-e-industria",
+   "round": 11,
+   "kickoff": "2026-12-13T15:00:00+00:00",
+   "venue": "Campo Municipal Nº 1 Grandola",
+   "home": "grandolense",
+   "away": "comercio-e-industria"
+  },
+  {
+   "id": "j11-pescadores-charneca-caparica",
+   "round": 11,
+   "kickoff": "2026-12-13T15:00:00+00:00",
+   "venue": "Campo Pescadores",
+   "home": "pescadores",
+   "away": "charneca-caparica"
+  },
+  {
+   "id": "j11-palmelense-barreirense",
+   "round": 11,
+   "kickoff": "2026-12-13T15:00:00+00:00",
+   "venue": "Campo Cornelio Palma",
+   "home": "palmelense",
+   "away": "barreirense"
+  },
+  {
+   "id": "j11-uniao-santiago-amora-b",
+   "round": 11,
+   "kickoff": "2026-12-13T15:00:00+00:00",
+   "venue": "Campo Mirobriga",
+   "home": "uniao-santiago",
+   "away": "amora-b"
+  },
+  {
+   "id": "j11-vasco-da-gama-lagamecas",
+   "round": 11,
+   "kickoff": "2026-12-13T15:00:00+00:00",
+   "venue": "Estadio Municipal Sines",
+   "home": "vasco-da-gama",
+   "away": "lagamecas"
+  },
+  {
+   "id": "j11-alfarim-moitense",
+   "round": 11,
+   "kickoff": "2026-12-13T15:00:00+00:00",
+   "venue": "Campo \"Alfarim\"",
+   "home": "alfarim",
+   "away": "moitense"
+  },
+  {
+   "id": "j11-olimpico-montijo-cova-piedade",
+   "round": 11,
+   "kickoff": "2026-12-13T15:00:00+00:00",
+   "venue": "Campo Liberdade",
+   "home": "olimpico-montijo",
+   "away": "cova-piedade"
+  },
+  {
+   "id": "j11-seixal-1925-sesimbra",
+   "round": 11,
+   "kickoff": "2026-12-13T15:00:00+00:00",
+   "venue": "Estádio Municipal Do Bravo",
+   "home": "seixal-1925",
+   "away": "sesimbra"
+  },
+  {
+   "id": "j12-amora-b-pescadores",
+   "round": 12,
+   "kickoff": "2026-12-20T15:00:00+00:00",
+   "venue": "Parque Do Serrado",
+   "home": "amora-b",
+   "away": "pescadores"
+  },
+  {
+   "id": "j12-cova-piedade-alfarim",
+   "round": 12,
+   "kickoff": "2026-12-20T15:00:00+00:00",
+   "venue": "Estadio Municipal José Martins Vieira",
+   "home": "cova-piedade",
+   "away": "alfarim"
+  },
+  {
+   "id": "j12-barreirense-grandolense",
+   "round": 12,
+   "kickoff": "2026-12-20T15:00:00+00:00",
+   "venue": "Campo Verderena",
+   "home": "barreirense",
+   "away": "grandolense"
+  },
+  {
+   "id": "j12-lagamecas-olimpico-montijo",
+   "round": 12,
+   "kickoff": "2026-12-20T15:00:00+00:00",
+   "venue": "Campo A C Esteves",
+   "home": "lagamecas",
+   "away": "olimpico-montijo"
+  },
+  {
+   "id": "j12-sesimbra-palmelense",
+   "round": 12,
+   "kickoff": "2026-12-20T15:00:00+00:00",
+   "venue": "Estádio Vila Amália",
+   "home": "sesimbra",
+   "away": "palmelense"
+  },
+  {
+   "id": "j12-moitense-seixal-1925",
+   "round": 12,
+   "kickoff": "2026-12-20T15:00:00+00:00",
+   "venue": "Juncal Desportos",
+   "home": "moitense",
+   "away": "seixal-1925"
+  },
+  {
+   "id": "j12-comercio-e-industria-uniao-santiago",
+   "round": 12,
+   "kickoff": "2026-12-20T15:00:00+00:00",
+   "venue": "Campo Bela Vista",
+   "home": "comercio-e-industria",
+   "away": "uniao-santiago"
+  },
+  {
+   "id": "j12-charneca-caparica-vasco-da-gama",
+   "round": 12,
+   "kickoff": "2026-12-20T15:00:00+00:00",
+   "venue": "Campo Cassapo",
+   "home": "charneca-caparica",
+   "away": "vasco-da-gama"
+  },
+  {
+   "id": "j13-amora-b-comercio-e-industria",
+   "round": 13,
+   "kickoff": "2027-01-10T15:00:00+00:00",
+   "venue": "Parque Do Serrado",
+   "home": "amora-b",
+   "away": "comercio-e-industria"
+  },
+  {
+   "id": "j13-grandolense-sesimbra",
+   "round": 13,
+   "kickoff": "2027-01-10T15:00:00+00:00",
+   "venue": "Campo Municipal Nº 1 Grandola",
+   "home": "grandolense",
+   "away": "sesimbra"
+  },
+  {
+   "id": "j13-pescadores-vasco-da-gama",
+   "round": 13,
+   "kickoff": "2027-01-10T15:00:00+00:00",
+   "venue": "Campo Pescadores",
+   "home": "pescadores",
+   "away": "vasco-da-gama"
+  },
+  {
+   "id": "j13-palmelense-moitense",
+   "round": 13,
+   "kickoff": "2027-01-10T15:00:00+00:00",
+   "venue": "Campo Cornelio Palma",
+   "home": "palmelense",
+   "away": "moitense"
+  },
+  {
+   "id": "j13-uniao-santiago-barreirense",
+   "round": 13,
+   "kickoff": "2027-01-10T15:00:00+00:00",
+   "venue": "Campo Mirobriga",
+   "home": "uniao-santiago",
+   "away": "barreirense"
+  },
+  {
+   "id": "j13-alfarim-lagamecas",
+   "round": 13,
+   "kickoff": "2027-01-10T15:00:00+00:00",
+   "venue": "Campo \"Alfarim\"",
+   "home": "alfarim",
+   "away": "lagamecas"
+  },
+  {
+   "id": "j13-olimpico-montijo-charneca-caparica",
+   "round": 13,
+   "kickoff": "2027-01-10T15:00:00+00:00",
+   "venue": "Campo Liberdade",
+   "home": "olimpico-montijo",
+   "away": "charneca-caparica"
+  },
+  {
+   "id": "j13-seixal-1925-cova-piedade",
+   "round": 13,
+   "kickoff": "2027-01-10T15:00:00+00:00",
+   "venue": "Estádio Municipal Do Bravo",
+   "home": "seixal-1925",
+   "away": "cova-piedade"
+  },
+  {
+   "id": "j14-cova-piedade-palmelense",
+   "round": 14,
+   "kickoff": "2027-01-17T15:30:00+00:00",
+   "venue": "Estadio Municipal José Martins Vieira",
+   "home": "cova-piedade",
+   "away": "palmelense"
+  },
+  {
+   "id": "j14-barreirense-amora-b",
+   "round": 14,
+   "kickoff": "2027-01-17T15:30:00+00:00",
+   "venue": "Campo Verderena",
+   "home": "barreirense",
+   "away": "amora-b"
+  },
+  {
+   "id": "j14-lagamecas-seixal-1925",
+   "round": 14,
+   "kickoff": "2027-01-17T15:30:00+00:00",
+   "venue": "Campo A C Esteves",
+   "home": "lagamecas",
+   "away": "seixal-1925"
+  },
+  {
+   "id": "j14-pescadores-comercio-e-industria",
+   "round": 14,
+   "kickoff": "2027-01-17T15:30:00+00:00",
+   "venue": "Campo Pescadores",
+   "home": "pescadores",
+   "away": "comercio-e-industria"
+  },
+  {
+   "id": "j14-sesimbra-uniao-santiago",
+   "round": 14,
+   "kickoff": "2027-01-17T15:30:00+00:00",
+   "venue": "Estádio Vila Amália",
+   "home": "sesimbra",
+   "away": "uniao-santiago"
+  },
+  {
+   "id": "j14-moitense-grandolense",
+   "round": 14,
+   "kickoff": "2027-01-17T15:30:00+00:00",
+   "venue": "Juncal Desportos",
+   "home": "moitense",
+   "away": "grandolense"
+  },
+  {
+   "id": "j14-vasco-da-gama-olimpico-montijo",
+   "round": 14,
+   "kickoff": "2027-01-17T15:30:00+00:00",
+   "venue": "Estadio Municipal Sines",
+   "home": "vasco-da-gama",
+   "away": "olimpico-montijo"
+  },
+  {
+   "id": "j14-charneca-caparica-alfarim",
+   "round": 14,
+   "kickoff": "2027-01-17T15:30:00+00:00",
+   "venue": "Campo Cassapo",
+   "home": "charneca-caparica",
+   "away": "alfarim"
+  },
+  {
+   "id": "j15-amora-b-sesimbra",
+   "round": 15,
+   "kickoff": "2027-01-24T15:30:00+00:00",
+   "venue": "Parque Do Serrado",
+   "home": "amora-b",
+   "away": "sesimbra"
+  },
+  {
+   "id": "j15-grandolense-cova-piedade",
+   "round": 15,
+   "kickoff": "2027-01-24T15:30:00+00:00",
+   "venue": "Campo Municipal Nº 1 Grandola",
+   "home": "grandolense",
+   "away": "cova-piedade"
+  },
+  {
+   "id": "j15-palmelense-lagamecas",
+   "round": 15,
+   "kickoff": "2027-01-24T15:30:00+00:00",
+   "venue": "Campo Cornelio Palma",
+   "home": "palmelense",
+   "away": "lagamecas"
+  },
+  {
+   "id": "j15-comercio-e-industria-barreirense",
+   "round": 15,
+   "kickoff": "2027-01-24T15:30:00+00:00",
+   "venue": "Campo Bela Vista",
+   "home": "comercio-e-industria",
+   "away": "barreirense"
+  },
+  {
+   "id": "j15-uniao-santiago-moitense",
+   "round": 15,
+   "kickoff": "2027-01-24T15:30:00+00:00",
+   "venue": "Campo Mirobriga",
+   "home": "uniao-santiago",
+   "away": "moitense"
+  },
+  {
+   "id": "j15-alfarim-vasco-da-gama",
+   "round": 15,
+   "kickoff": "2027-01-24T15:30:00+00:00",
+   "venue": "Campo \"Alfarim\"",
+   "home": "alfarim",
+   "away": "vasco-da-gama"
+  },
+  {
+   "id": "j15-olimpico-montijo-pescadores",
+   "round": 15,
+   "kickoff": "2027-01-24T15:30:00+00:00",
+   "venue": "Campo Liberdade",
+   "home": "olimpico-montijo",
+   "away": "pescadores"
+  },
+  {
+   "id": "j15-seixal-1925-charneca-caparica",
+   "round": 15,
+   "kickoff": "2027-01-24T15:30:00+00:00",
+   "venue": "Estádio Municipal Do Bravo",
+   "home": "seixal-1925",
+   "away": "charneca-caparica"
+  },
+  {
+   "id": "j16-amora-b-moitense",
+   "round": 16,
+   "kickoff": "2027-02-07T15:30:00+00:00",
+   "venue": "Parque Do Serrado",
+   "home": "amora-b",
+   "away": "moitense"
+  },
+  {
+   "id": "j16-grandolense-lagamecas",
+   "round": 16,
+   "kickoff": "2027-02-07T15:30:00+00:00",
+   "venue": "Campo Municipal Nº 1 Grandola",
+   "home": "grandolense",
+   "away": "lagamecas"
+  },
+  {
+   "id": "j16-barreirense-pescadores",
+   "round": 16,
+   "kickoff": "2027-02-07T15:30:00+00:00",
+   "venue": "Campo Verderena",
+   "home": "barreirense",
+   "away": "pescadores"
+  },
+  {
+   "id": "j16-palmelense-charneca-caparica",
+   "round": 16,
+   "kickoff": "2027-02-07T15:30:00+00:00",
+   "venue": "Campo Cornelio Palma",
+   "home": "palmelense",
+   "away": "charneca-caparica"
+  },
+  {
+   "id": "j16-comercio-e-industria-sesimbra",
+   "round": 16,
+   "kickoff": "2027-02-07T15:30:00+00:00",
+   "venue": "Campo Bela Vista",
+   "home": "comercio-e-industria",
+   "away": "sesimbra"
+  },
+  {
+   "id": "j16-uniao-santiago-cova-piedade",
+   "round": 16,
+   "kickoff": "2027-02-07T15:30:00+00:00",
+   "venue": "Campo Mirobriga",
+   "home": "uniao-santiago",
+   "away": "cova-piedade"
+  },
+  {
+   "id": "j16-alfarim-olimpico-montijo",
+   "round": 16,
+   "kickoff": "2027-02-07T15:30:00+00:00",
+   "venue": "Campo \"Alfarim\"",
+   "home": "alfarim",
+   "away": "olimpico-montijo"
+  },
+  {
+   "id": "j16-seixal-1925-vasco-da-gama",
+   "round": 16,
+   "kickoff": "2027-02-07T15:30:00+00:00",
+   "venue": "Estádio Municipal Do Bravo",
+   "home": "seixal-1925",
+   "away": "vasco-da-gama"
+  },
+  {
+   "id": "j17-cova-piedade-amora-b",
+   "round": 17,
+   "kickoff": "2027-02-14T15:30:00+00:00",
+   "venue": "Estadio Municipal José Martins Vieira",
+   "home": "cova-piedade",
+   "away": "amora-b"
+  },
+  {
+   "id": "j17-lagamecas-uniao-santiago",
+   "round": 17,
+   "kickoff": "2027-02-14T15:30:00+00:00",
+   "venue": "Campo A C Esteves",
+   "home": "lagamecas",
+   "away": "uniao-santiago"
+  },
+  {
+   "id": "j17-pescadores-alfarim",
+   "round": 17,
+   "kickoff": "2027-02-14T15:30:00+00:00",
+   "venue": "Campo Pescadores",
+   "home": "pescadores",
+   "away": "alfarim"
+  },
+  {
+   "id": "j17-sesimbra-barreirense",
+   "round": 17,
+   "kickoff": "2027-02-14T15:30:00+00:00",
+   "venue": "Estádio Vila Amália",
+   "home": "sesimbra",
+   "away": "barreirense"
+  },
+  {
+   "id": "j17-moitense-comercio-e-industria",
+   "round": 17,
+   "kickoff": "2027-02-14T15:30:00+00:00",
+   "venue": "Juncal Desportos",
+   "home": "moitense",
+   "away": "comercio-e-industria"
+  },
+  {
+   "id": "j17-vasco-da-gama-palmelense",
+   "round": 17,
+   "kickoff": "2027-02-14T15:30:00+00:00",
+   "venue": "Estadio Municipal Sines",
+   "home": "vasco-da-gama",
+   "away": "palmelense"
+  },
+  {
+   "id": "j17-charneca-caparica-grandolense",
+   "round": 17,
+   "kickoff": "2027-02-14T15:30:00+00:00",
+   "venue": "Campo Cassapo",
+   "home": "charneca-caparica",
+   "away": "grandolense"
+  },
+  {
+   "id": "j17-olimpico-montijo-seixal-1925",
+   "round": 17,
+   "kickoff": "2027-02-14T15:30:00+00:00",
+   "venue": "Campo Liberdade",
+   "home": "olimpico-montijo",
+   "away": "seixal-1925"
+  },
+  {
+   "id": "j18-amora-b-lagamecas",
+   "round": 18,
+   "kickoff": "2027-02-28T15:30:00+00:00",
+   "venue": "Parque Do Serrado",
+   "home": "amora-b",
+   "away": "lagamecas"
+  },
+  {
+   "id": "j18-grandolense-vasco-da-gama",
+   "round": 18,
+   "kickoff": "2027-02-28T15:30:00+00:00",
+   "venue": "Campo Municipal Nº 1 Grandola",
+   "home": "grandolense",
+   "away": "vasco-da-gama"
+  },
+  {
+   "id": "j18-barreirense-moitense",
+   "round": 18,
+   "kickoff": "2027-02-28T15:30:00+00:00",
+   "venue": "Campo Verderena",
+   "home": "barreirense",
+   "away": "moitense"
+  },
+  {
+   "id": "j18-sesimbra-pescadores",
+   "round": 18,
+   "kickoff": "2027-02-28T15:30:00+00:00",
+   "venue": "Estádio Vila Amália",
+   "home": "sesimbra",
+   "away": "pescadores"
+  },
+  {
+   "id": "j18-palmelense-olimpico-montijo",
+   "round": 18,
+   "kickoff": "2027-02-28T15:30:00+00:00",
+   "venue": "Campo Cornelio Palma",
+   "home": "palmelense",
+   "away": "olimpico-montijo"
+  },
+  {
+   "id": "j18-comercio-e-industria-cova-piedade",
+   "round": 18,
+   "kickoff": "2027-02-28T15:30:00+00:00",
+   "venue": "Campo Bela Vista",
+   "home": "comercio-e-industria",
+   "away": "cova-piedade"
+  },
+  {
+   "id": "j18-uniao-santiago-charneca-caparica",
+   "round": 18,
+   "kickoff": "2027-02-28T15:30:00+00:00",
+   "venue": "Campo Mirobriga",
+   "home": "uniao-santiago",
+   "away": "charneca-caparica"
+  },
+  {
+   "id": "j18-seixal-1925-alfarim",
+   "round": 18,
+   "kickoff": "2027-02-28T15:30:00+00:00",
+   "venue": "Estádio Municipal Do Bravo",
+   "home": "seixal-1925",
+   "away": "alfarim"
+  },
+  {
+   "id": "j19-cova-piedade-barreirense",
+   "round": 19,
+   "kickoff": "2027-03-07T15:30:00+00:00",
+   "venue": "Estadio Municipal José Martins Vieira",
+   "home": "cova-piedade",
+   "away": "barreirense"
+  },
+  {
+   "id": "j19-lagamecas-comercio-e-industria",
+   "round": 19,
+   "kickoff": "2027-03-07T15:30:00+00:00",
+   "venue": "Campo A C Esteves",
+   "home": "lagamecas",
+   "away": "comercio-e-industria"
+  },
+  {
+   "id": "j19-pescadores-seixal-1925",
+   "round": 19,
+   "kickoff": "2027-03-07T15:30:00+00:00",
+   "venue": "Campo Pescadores",
+   "home": "pescadores",
+   "away": "seixal-1925"
+  },
+  {
+   "id": "j19-moitense-sesimbra",
+   "round": 19,
+   "kickoff": "2027-03-07T15:30:00+00:00",
+   "venue": "Juncal Desportos",
+   "home": "moitense",
+   "away": "sesimbra"
+  },
+  {
+   "id": "j19-vasco-da-gama-uniao-santiago",
+   "round": 19,
+   "kickoff": "2027-03-07T15:30:00+00:00",
+   "venue": "Estadio Municipal Sines",
+   "home": "vasco-da-gama",
+   "away": "uniao-santiago"
+  },
+  {
+   "id": "j19-alfarim-palmelense",
+   "round": 19,
+   "kickoff": "2027-03-07T15:30:00+00:00",
+   "venue": "Campo \"Alfarim\"",
+   "home": "alfarim",
+   "away": "palmelense"
+  },
+  {
+   "id": "j19-charneca-caparica-amora-b",
+   "round": 19,
+   "kickoff": "2027-03-07T15:30:00+00:00",
+   "venue": "Campo Cassapo",
+   "home": "charneca-caparica",
+   "away": "amora-b"
+  },
+  {
+   "id": "j19-olimpico-montijo-grandolense",
+   "round": 19,
+   "kickoff": "2027-03-07T15:30:00+00:00",
+   "venue": "Campo Liberdade",
+   "home": "olimpico-montijo",
+   "away": "grandolense"
+  },
+  {
+   "id": "j20-amora-b-vasco-da-gama",
+   "round": 20,
+   "kickoff": "2027-03-14T15:30:00+00:00",
+   "venue": "Parque Do Serrado",
+   "home": "amora-b",
+   "away": "vasco-da-gama"
+  },
+  {
+   "id": "j20-grandolense-alfarim",
+   "round": 20,
+   "kickoff": "2027-03-14T15:30:00+00:00",
+   "venue": "Campo Municipal Nº 1 Grandola",
+   "home": "grandolense",
+   "away": "alfarim"
+  },
+  {
+   "id": "j20-barreirense-lagamecas",
+   "round": 20,
+   "kickoff": "2027-03-14T15:30:00+00:00",
+   "venue": "Campo Verderena",
+   "home": "barreirense",
+   "away": "lagamecas"
+  },
+  {
+   "id": "j20-sesimbra-cova-piedade",
+   "round": 20,
+   "kickoff": "2027-03-14T15:30:00+00:00",
+   "venue": "Estádio Vila Amália",
+   "home": "sesimbra",
+   "away": "cova-piedade"
+  },
+  {
+   "id": "j20-palmelense-seixal-1925",
+   "round": 20,
+   "kickoff": "2027-03-14T15:30:00+00:00",
+   "venue": "Campo Cornelio Palma",
+   "home": "palmelense",
+   "away": "seixal-1925"
+  },
+  {
+   "id": "j20-moitense-pescadores",
+   "round": 20,
+   "kickoff": "2027-03-14T15:30:00+00:00",
+   "venue": "Juncal Desportos",
+   "home": "moitense",
+   "away": "pescadores"
+  },
+  {
+   "id": "j20-comercio-e-industria-charneca-caparica",
+   "round": 20,
+   "kickoff": "2027-03-14T15:30:00+00:00",
+   "venue": "Campo Bela Vista",
+   "home": "comercio-e-industria",
+   "away": "charneca-caparica"
+  },
+  {
+   "id": "j20-uniao-santiago-olimpico-montijo",
+   "round": 20,
+   "kickoff": "2027-03-14T15:30:00+00:00",
+   "venue": "Campo Mirobriga",
+   "home": "uniao-santiago",
+   "away": "olimpico-montijo"
+  },
+  {
+   "id": "j21-cova-piedade-moitense",
+   "round": 21,
+   "kickoff": "2027-03-21T15:30:00+00:00",
+   "venue": "Estadio Municipal José Martins Vieira",
+   "home": "cova-piedade",
+   "away": "moitense"
+  },
+  {
+   "id": "j21-lagamecas-sesimbra",
+   "round": 21,
+   "kickoff": "2027-03-21T15:30:00+00:00",
+   "venue": "Campo A C Esteves",
+   "home": "lagamecas",
+   "away": "sesimbra"
+  },
+  {
+   "id": "j21-pescadores-palmelense",
+   "round": 21,
+   "kickoff": "2027-03-21T15:30:00+00:00",
+   "venue": "Campo Pescadores",
+   "home": "pescadores",
+   "away": "palmelense"
+  },
+  {
+   "id": "j21-vasco-da-gama-comercio-e-industria",
+   "round": 21,
+   "kickoff": "2027-03-21T15:30:00+00:00",
+   "venue": "Estadio Municipal Sines",
+   "home": "vasco-da-gama",
+   "away": "comercio-e-industria"
+  },
+  {
+   "id": "j21-alfarim-uniao-santiago",
+   "round": 21,
+   "kickoff": "2027-03-21T15:30:00+00:00",
+   "venue": "Campo \"Alfarim\"",
+   "home": "alfarim",
+   "away": "uniao-santiago"
+  },
+  {
+   "id": "j21-charneca-caparica-barreirense",
+   "round": 21,
+   "kickoff": "2027-03-21T15:30:00+00:00",
+   "venue": "Campo Cassapo",
+   "home": "charneca-caparica",
+   "away": "barreirense"
+  },
+  {
+   "id": "j21-olimpico-montijo-amora-b",
+   "round": 21,
+   "kickoff": "2027-03-21T15:30:00+00:00",
+   "venue": "Campo Liberdade",
+   "home": "olimpico-montijo",
+   "away": "amora-b"
+  },
+  {
+   "id": "j21-seixal-1925-grandolense",
+   "round": 21,
+   "kickoff": "2027-03-21T15:30:00+00:00",
+   "venue": "Estádio Municipal Do Bravo",
+   "home": "seixal-1925",
+   "away": "grandolense"
+  },
+  {
+   "id": "j22-amora-b-alfarim",
+   "round": 22,
+   "kickoff": "2027-04-04T16:00:00+01:00",
+   "venue": "Parque Do Serrado",
+   "home": "amora-b",
+   "away": "alfarim"
+  },
+  {
+   "id": "j22-grandolense-palmelense",
+   "round": 22,
+   "kickoff": "2027-04-04T16:00:00+01:00",
+   "venue": "Campo Municipal Nº 1 Grandola",
+   "home": "grandolense",
+   "away": "palmelense"
+  },
+  {
+   "id": "j22-cova-piedade-pescadores",
+   "round": 22,
+   "kickoff": "2027-04-04T16:00:00+01:00",
+   "venue": "Estadio Municipal José Martins Vieira",
+   "home": "cova-piedade",
+   "away": "pescadores"
+  },
+  {
+   "id": "j22-barreirense-vasco-da-gama",
+   "round": 22,
+   "kickoff": "2027-04-04T16:00:00+01:00",
+   "venue": "Campo Verderena",
+   "home": "barreirense",
+   "away": "vasco-da-gama"
+  },
+  {
+   "id": "j22-sesimbra-charneca-caparica",
+   "round": 22,
+   "kickoff": "2027-04-04T16:00:00+01:00",
+   "venue": "Estádio Vila Amália",
+   "home": "sesimbra",
+   "away": "charneca-caparica"
+  },
+  {
+   "id": "j22-moitense-lagamecas",
+   "round": 22,
+   "kickoff": "2027-04-04T16:00:00+01:00",
+   "venue": "Juncal Desportos",
+   "home": "moitense",
+   "away": "lagamecas"
+  },
+  {
+   "id": "j22-comercio-e-industria-olimpico-montijo",
+   "round": 22,
+   "kickoff": "2027-04-04T16:00:00+01:00",
+   "venue": "Campo Bela Vista",
+   "home": "comercio-e-industria",
+   "away": "olimpico-montijo"
+  },
+  {
+   "id": "j22-uniao-santiago-seixal-1925",
+   "round": 22,
+   "kickoff": "2027-04-04T16:00:00+01:00",
+   "venue": "Campo Mirobriga",
+   "home": "uniao-santiago",
+   "away": "seixal-1925"
+  },
+  {
+   "id": "j23-lagamecas-cova-piedade",
+   "round": 23,
+   "kickoff": "2027-04-11T16:00:00+01:00",
+   "venue": "Campo A C Esteves",
+   "home": "lagamecas",
+   "away": "cova-piedade"
+  },
+  {
+   "id": "j23-pescadores-grandolense",
+   "round": 23,
+   "kickoff": "2027-04-11T16:00:00+01:00",
+   "venue": "Campo Pescadores",
+   "home": "pescadores",
+   "away": "grandolense"
+  },
+  {
+   "id": "j23-palmelense-uniao-santiago",
+   "round": 23,
+   "kickoff": "2027-04-11T16:00:00+01:00",
+   "venue": "Campo Cornelio Palma",
+   "home": "palmelense",
+   "away": "uniao-santiago"
+  },
+  {
+   "id": "j23-vasco-da-gama-sesimbra",
+   "round": 23,
+   "kickoff": "2027-04-11T16:00:00+01:00",
+   "venue": "Estadio Municipal Sines",
+   "home": "vasco-da-gama",
+   "away": "sesimbra"
+  },
+  {
+   "id": "j23-alfarim-comercio-e-industria",
+   "round": 23,
+   "kickoff": "2027-04-11T16:00:00+01:00",
+   "venue": "Campo \"Alfarim\"",
+   "home": "alfarim",
+   "away": "comercio-e-industria"
+  },
+  {
+   "id": "j23-charneca-caparica-moitense",
+   "round": 23,
+   "kickoff": "2027-04-11T16:00:00+01:00",
+   "venue": "Campo Cassapo",
+   "home": "charneca-caparica",
+   "away": "moitense"
+  },
+  {
+   "id": "j23-olimpico-montijo-barreirense",
+   "round": 23,
+   "kickoff": "2027-04-11T16:00:00+01:00",
+   "venue": "Campo Liberdade",
+   "home": "olimpico-montijo",
+   "away": "barreirense"
+  },
+  {
+   "id": "j23-seixal-1925-amora-b",
+   "round": 23,
+   "kickoff": "2027-04-11T16:00:00+01:00",
+   "venue": "Estádio Municipal Do Bravo",
+   "home": "seixal-1925",
+   "away": "amora-b"
+  },
+  {
+   "id": "j24-amora-b-palmelense",
+   "round": 24,
+   "kickoff": "2027-04-18T16:00:00+01:00",
+   "venue": "Parque Do Serrado",
+   "home": "amora-b",
+   "away": "palmelense"
+  },
+  {
+   "id": "j24-cova-piedade-charneca-caparica",
+   "round": 24,
+   "kickoff": "2027-04-18T16:00:00+01:00",
+   "venue": "Estadio Municipal José Martins Vieira",
+   "home": "cova-piedade",
+   "away": "charneca-caparica"
+  },
+  {
+   "id": "j24-barreirense-alfarim",
+   "round": 24,
+   "kickoff": "2027-04-18T16:00:00+01:00",
+   "venue": "Campo Verderena",
+   "home": "barreirense",
+   "away": "alfarim"
+  },
+  {
+   "id": "j24-lagamecas-pescadores",
+   "round": 24,
+   "kickoff": "2027-04-18T16:00:00+01:00",
+   "venue": "Campo A C Esteves",
+   "home": "lagamecas",
+   "away": "pescadores"
+  },
+  {
+   "id": "j24-sesimbra-olimpico-montijo",
+   "round": 24,
+   "kickoff": "2027-04-18T16:00:00+01:00",
+   "venue": "Estádio Vila Amália",
+   "home": "sesimbra",
+   "away": "olimpico-montijo"
+  },
+  {
+   "id": "j24-moitense-vasco-da-gama",
+   "round": 24,
+   "kickoff": "2027-04-18T16:00:00+01:00",
+   "venue": "Juncal Desportos",
+   "home": "moitense",
+   "away": "vasco-da-gama"
+  },
+  {
+   "id": "j24-comercio-e-industria-seixal-1925",
+   "round": 24,
+   "kickoff": "2027-04-18T16:00:00+01:00",
+   "venue": "Campo Bela Vista",
+   "home": "comercio-e-industria",
+   "away": "seixal-1925"
+  },
+  {
+   "id": "j24-uniao-santiago-grandolense",
+   "round": 24,
+   "kickoff": "2027-04-18T16:00:00+01:00",
+   "venue": "Campo Mirobriga",
+   "home": "uniao-santiago",
+   "away": "grandolense"
+  },
+  {
+   "id": "j25-grandolense-amora-b",
+   "round": 25,
+   "kickoff": "2027-04-25T16:00:00+01:00",
+   "venue": "Campo Municipal Nº 1 Grandola",
+   "home": "grandolense",
+   "away": "amora-b"
+  },
+  {
+   "id": "j25-pescadores-uniao-santiago",
+   "round": 25,
+   "kickoff": "2027-04-25T16:00:00+01:00",
+   "venue": "Campo Pescadores",
+   "home": "pescadores",
+   "away": "uniao-santiago"
+  },
+  {
+   "id": "j25-palmelense-comercio-e-industria",
+   "round": 25,
+   "kickoff": "2027-04-25T16:00:00+01:00",
+   "venue": "Campo Cornelio Palma",
+   "home": "palmelense",
+   "away": "comercio-e-industria"
+  },
+  {
+   "id": "j25-vasco-da-gama-cova-piedade",
+   "round": 25,
+   "kickoff": "2027-04-25T16:00:00+01:00",
+   "venue": "Estadio Municipal Sines",
+   "home": "vasco-da-gama",
+   "away": "cova-piedade"
+  },
+  {
+   "id": "j25-alfarim-sesimbra",
+   "round": 25,
+   "kickoff": "2027-04-25T16:00:00+01:00",
+   "venue": "Campo \"Alfarim\"",
+   "home": "alfarim",
+   "away": "sesimbra"
+  },
+  {
+   "id": "j25-charneca-caparica-lagamecas",
+   "round": 25,
+   "kickoff": "2027-04-25T16:00:00+01:00",
+   "venue": "Campo Cassapo",
+   "home": "charneca-caparica",
+   "away": "lagamecas"
+  },
+  {
+   "id": "j25-olimpico-montijo-moitense",
+   "round": 25,
+   "kickoff": "2027-04-25T16:00:00+01:00",
+   "venue": "Campo Liberdade",
+   "home": "olimpico-montijo",
+   "away": "moitense"
+  },
+  {
+   "id": "j25-seixal-1925-barreirense",
+   "round": 25,
+   "kickoff": "2027-04-25T16:00:00+01:00",
+   "venue": "Estádio Municipal Do Bravo",
+   "home": "seixal-1925",
+   "away": "barreirense"
+  },
+  {
+   "id": "j26-amora-b-uniao-santiago",
+   "round": 26,
+   "kickoff": "2027-05-02T16:00:00+01:00",
+   "venue": "Parque Do Serrado",
+   "home": "amora-b",
+   "away": "uniao-santiago"
+  },
+  {
+   "id": "j26-cova-piedade-olimpico-montijo",
+   "round": 26,
+   "kickoff": "2027-05-02T16:00:00+01:00",
+   "venue": "Estadio Municipal José Martins Vieira",
+   "home": "cova-piedade",
+   "away": "olimpico-montijo"
+  },
+  {
+   "id": "j26-barreirense-palmelense",
+   "round": 26,
+   "kickoff": "2027-05-02T16:00:00+01:00",
+   "venue": "Campo Verderena",
+   "home": "barreirense",
+   "away": "palmelense"
+  },
+  {
+   "id": "j26-lagamecas-vasco-da-gama",
+   "round": 26,
+   "kickoff": "2027-05-02T16:00:00+01:00",
+   "venue": "Campo A C Esteves",
+   "home": "lagamecas",
+   "away": "vasco-da-gama"
+  },
+  {
+   "id": "j26-sesimbra-seixal-1925",
+   "round": 26,
+   "kickoff": "2027-05-02T16:00:00+01:00",
+   "venue": "Estádio Vila Amália",
+   "home": "sesimbra",
+   "away": "seixal-1925"
+  },
+  {
+   "id": "j26-moitense-alfarim",
+   "round": 26,
+   "kickoff": "2027-05-02T16:00:00+01:00",
+   "venue": "Juncal Desportos",
+   "home": "moitense",
+   "away": "alfarim"
+  },
+  {
+   "id": "j26-comercio-e-industria-grandolense",
+   "round": 26,
+   "kickoff": "2027-05-02T16:00:00+01:00",
+   "venue": "Campo Bela Vista",
+   "home": "comercio-e-industria",
+   "away": "grandolense"
+  },
+  {
+   "id": "j26-charneca-caparica-pescadores",
+   "round": 26,
+   "kickoff": "2027-05-02T16:00:00+01:00",
+   "venue": "Campo Cassapo",
+   "home": "charneca-caparica",
+   "away": "pescadores"
+  },
+  {
+   "id": "j27-grandolense-barreirense",
+   "round": 27,
+   "kickoff": "2027-05-09T17:00:00+01:00",
+   "venue": "Campo Municipal Nº 1 Grandola",
+   "home": "grandolense",
+   "away": "barreirense"
+  },
+  {
+   "id": "j27-pescadores-amora-b",
+   "round": 27,
+   "kickoff": "2027-05-09T17:00:00+01:00",
+   "venue": "Campo Pescadores",
+   "home": "pescadores",
+   "away": "amora-b"
+  },
+  {
+   "id": "j27-palmelense-sesimbra",
+   "round": 27,
+   "kickoff": "2027-05-09T17:00:00+01:00",
+   "venue": "Campo Cornelio Palma",
+   "home": "palmelense",
+   "away": "sesimbra"
+  },
+  {
+   "id": "j27-uniao-santiago-comercio-e-industria",
+   "round": 27,
+   "kickoff": "2027-05-09T17:00:00+01:00",
+   "venue": "Campo Mirobriga",
+   "home": "uniao-santiago",
+   "away": "comercio-e-industria"
+  },
+  {
+   "id": "j27-vasco-da-gama-charneca-caparica",
+   "round": 27,
+   "kickoff": "2027-05-09T17:00:00+01:00",
+   "venue": "Estadio Municipal Sines",
+   "home": "vasco-da-gama",
+   "away": "charneca-caparica"
+  },
+  {
+   "id": "j27-alfarim-cova-piedade",
+   "round": 27,
+   "kickoff": "2027-05-09T17:00:00+01:00",
+   "venue": "Campo \"Alfarim\"",
+   "home": "alfarim",
+   "away": "cova-piedade"
+  },
+  {
+   "id": "j27-olimpico-montijo-lagamecas",
+   "round": 27,
+   "kickoff": "2027-05-09T17:00:00+01:00",
+   "venue": "Campo Liberdade",
+   "home": "olimpico-montijo",
+   "away": "lagamecas"
+  },
+  {
+   "id": "j27-seixal-1925-moitense",
+   "round": 27,
+   "kickoff": "2027-05-09T17:00:00+01:00",
+   "venue": "Estádio Municipal Do Bravo",
+   "home": "seixal-1925",
+   "away": "moitense"
+  },
+  {
+   "id": "j28-cova-piedade-seixal-1925",
+   "round": 28,
+   "kickoff": "2027-05-16T17:00:00+01:00",
+   "venue": "Estadio Municipal José Martins Vieira",
+   "home": "cova-piedade",
+   "away": "seixal-1925"
+  },
+  {
+   "id": "j28-barreirense-uniao-santiago",
+   "round": 28,
+   "kickoff": "2027-05-16T17:00:00+01:00",
+   "venue": "Campo Verderena",
+   "home": "barreirense",
+   "away": "uniao-santiago"
+  },
+  {
+   "id": "j28-lagamecas-alfarim",
+   "round": 28,
+   "kickoff": "2027-05-16T17:00:00+01:00",
+   "venue": "Campo A C Esteves",
+   "home": "lagamecas",
+   "away": "alfarim"
+  },
+  {
+   "id": "j28-sesimbra-grandolense",
+   "round": 28,
+   "kickoff": "2027-05-16T17:00:00+01:00",
+   "venue": "Estádio Vila Amália",
+   "home": "sesimbra",
+   "away": "grandolense"
+  },
+  {
+   "id": "j28-moitense-palmelense",
+   "round": 28,
+   "kickoff": "2027-05-16T17:00:00+01:00",
+   "venue": "Juncal Desportos",
+   "home": "moitense",
+   "away": "palmelense"
+  },
+  {
+   "id": "j28-comercio-e-industria-amora-b",
+   "round": 28,
+   "kickoff": "2027-05-16T17:00:00+01:00",
+   "venue": "Campo Bela Vista",
+   "home": "comercio-e-industria",
+   "away": "amora-b"
+  },
+  {
+   "id": "j28-vasco-da-gama-pescadores",
+   "round": 28,
+   "kickoff": "2027-05-16T17:00:00+01:00",
+   "venue": "Estadio Municipal Sines",
+   "home": "vasco-da-gama",
+   "away": "pescadores"
+  },
+  {
+   "id": "j28-charneca-caparica-olimpico-montijo",
+   "round": 28,
+   "kickoff": "2027-05-16T17:00:00+01:00",
+   "venue": "Campo Cassapo",
+   "home": "charneca-caparica",
+   "away": "olimpico-montijo"
+  },
+  {
+   "id": "j29-amora-b-barreirense",
+   "round": 29,
+   "kickoff": "2027-05-23T17:00:00+01:00",
+   "venue": "Parque Do Serrado",
+   "home": "amora-b",
+   "away": "barreirense"
+  },
+  {
+   "id": "j29-grandolense-moitense",
+   "round": 29,
+   "kickoff": "2027-05-23T17:00:00+01:00",
+   "venue": "Campo Municipal Nº 1 Grandola",
+   "home": "grandolense",
+   "away": "moitense"
+  },
+  {
+   "id": "j29-palmelense-cova-piedade",
+   "round": 29,
+   "kickoff": "2027-05-23T17:00:00+01:00",
+   "venue": "Campo Cornelio Palma",
+   "home": "palmelense",
+   "away": "cova-piedade"
+  },
+  {
+   "id": "j29-comercio-e-industria-pescadores",
+   "round": 29,
+   "kickoff": "2027-05-23T17:00:00+01:00",
+   "venue": "Campo Bela Vista",
+   "home": "comercio-e-industria",
+   "away": "pescadores"
+  },
+  {
+   "id": "j29-uniao-santiago-sesimbra",
+   "round": 29,
+   "kickoff": "2027-05-23T17:00:00+01:00",
+   "venue": "Campo Mirobriga",
+   "home": "uniao-santiago",
+   "away": "sesimbra"
+  },
+  {
+   "id": "j29-alfarim-charneca-caparica",
+   "round": 29,
+   "kickoff": "2027-05-23T17:00:00+01:00",
+   "venue": "Campo \"Alfarim\"",
+   "home": "alfarim",
+   "away": "charneca-caparica"
+  },
+  {
+   "id": "j29-olimpico-montijo-vasco-da-gama",
+   "round": 29,
+   "kickoff": "2027-05-23T17:00:00+01:00",
+   "venue": "Campo Liberdade",
+   "home": "olimpico-montijo",
+   "away": "vasco-da-gama"
+  },
+  {
+   "id": "j29-seixal-1925-lagamecas",
+   "round": 29,
+   "kickoff": "2027-05-23T17:00:00+01:00",
+   "venue": "Estádio Municipal Do Bravo",
+   "home": "seixal-1925",
+   "away": "lagamecas"
+  },
+  {
+   "id": "j30-cova-piedade-grandolense",
+   "round": 30,
+   "kickoff": "2027-05-29T17:00:00+01:00",
+   "venue": "Estadio Municipal José Martins Vieira",
+   "home": "cova-piedade",
+   "away": "grandolense"
+  },
+  {
+   "id": "j30-barreirense-comercio-e-industria",
+   "round": 30,
+   "kickoff": "2027-05-29T17:00:00+01:00",
+   "venue": "Campo Verderena",
+   "home": "barreirense",
+   "away": "comercio-e-industria"
+  },
+  {
+   "id": "j30-lagamecas-palmelense",
+   "round": 30,
+   "kickoff": "2027-05-29T17:00:00+01:00",
+   "venue": "Campo A C Esteves",
+   "home": "lagamecas",
+   "away": "palmelense"
+  },
+  {
+   "id": "j30-pescadores-olimpico-montijo",
+   "round": 30,
+   "kickoff": "2027-05-29T17:00:00+01:00",
+   "venue": "Campo Pescadores",
+   "home": "pescadores",
+   "away": "olimpico-montijo"
+  },
+  {
+   "id": "j30-sesimbra-amora-b",
+   "round": 30,
+   "kickoff": "2027-05-29T17:00:00+01:00",
+   "venue": "Estádio Vila Amália",
+   "home": "sesimbra",
+   "away": "amora-b"
+  },
+  {
+   "id": "j30-moitense-uniao-santiago",
+   "round": 30,
+   "kickoff": "2027-05-29T17:00:00+01:00",
+   "venue": "Juncal Desportos",
+   "home": "moitense",
+   "away": "uniao-santiago"
+  },
+  {
+   "id": "j30-vasco-da-gama-alfarim",
+   "round": 30,
+   "kickoff": "2027-05-29T17:00:00+01:00",
+   "venue": "Estadio Municipal Sines",
+   "home": "vasco-da-gama",
+   "away": "alfarim"
+  },
+  {
+   "id": "j30-charneca-caparica-seixal-1925",
+   "round": 30,
+   "kickoff": "2027-05-29T17:00:00+01:00",
+   "venue": "Campo Cassapo",
+   "home": "charneca-caparica",
+   "away": "seixal-1925"
+  }
+ ]
+}
